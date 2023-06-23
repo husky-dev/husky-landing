@@ -1,6 +1,6 @@
 # Husky Landing
 
-Source files for [husky-dev.me](https://husky-dev.me).
+Source files for [husky-dev.me](https://husky-dev.me). Designed to be hosted on Cloudflare Pages.
 
 ## Docker
 

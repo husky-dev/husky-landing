@@ -1,14 +1,14 @@
 /series https://blog.husky-dev.me/series 301
-/series/* https://blog.husky-dev.me/:splat 301
+/series/* https://blog.husky-dev.me/series/:splat 301
 
 /tags https://blog.husky-dev.me/tags 301
-/tags/* https://blog.husky-dev.me/:splat 301
+/tags/* https://blog.husky-dev.me/tags/:splat 301
 
 /blog https://blog.husky-dev.me/blog 301
-/blog/* https://blog.husky-dev.me/:splat 301
+/blog/* https://blog.husky-dev.me/blog/:splat 301
 
 /categories https://blog.husky-dev.me/categories 301
-/categories/* https://blog.husky-dev.me/:splat 301
+/categories/* https://blog.husky-dev.me/categories/:splat 301
 
 /search https://blog.husky-dev.me/search 301
 /privacy https://blog.husky-dev.me/privacy 301
