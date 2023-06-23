@@ -1,0 +1,39 @@
+baseURL: 'https://husky-dev.me/'
+languageCode: "uk"
+defaultContentLanguage: "uk"
+title: "👨‍💻 Husky Dev"
+theme: "PaperMod"
+timeout: "5m"
+
+menu:
+  main:
+    - identifier: blog
+      name: "📝 Блог"
+      url: "https://blog.husky-dev.me/"
+
+params:
+  defaultTheme: auto
+  profileMode:
+    enabled: true
+    homeInfoParams:
+    title: "Привіт!"
+    subtitle: "Мене звати Ярослав. Я програміст, люблю спорт і подорожі."
+    imageUrl: "avatar.jpg"
+    # imageTitle: "<title of image as alt>"
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    buttons:
+      - name: Блог
+        url: "https://blog.husky-dev.me/"
+
+  socialIcons:
+    - name: "instagram"
+      url: "https://www.instagram.com/husky.dev/"
+    - name: "facebook"
+      url: "https://www.facebook.com/snipter"
+    - name: "twitter"
+      url: "https://twitter.com/HuskyDevUA"
+    - name: "github"
+      url: "https://github.com/husky-dev"
+    - name: "email"
+      url: "mailto:hello@husky-dev.me"
