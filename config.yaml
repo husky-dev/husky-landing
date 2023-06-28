@@ -58,7 +58,7 @@ languages:
         enabled: true
         homeInfoParams:
         title: "Hello!"
-        subtitle: "My name is Jaroslav. I am a programmer. I love programming, traveling, and sports."
+        subtitle: "My name is Jaroslav. I am a programmer. I love programming, traveling and sports."
         imageUrl: "avatar-001.jpg"
         buttons:
           - name: "👨‍💻 Blog"
