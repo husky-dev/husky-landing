@@ -1,6 +1,6 @@
 baseURL: 'https://husky-dev.me/'
 languageCode: "en"
-title: "👨‍💻 Husky Dev"
+title: "Husky Dev"
 theme: "PaperMod"
 timeout: "5m"
 
