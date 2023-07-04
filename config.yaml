@@ -6,14 +6,22 @@ timeout: "5m"
 
 menu:
   main:
+    - identifier: github
+      name: "GitHub"
+      url: "https://github.com/husky-dev"
+      weight: 1
+    - identifier: open-source
+      name: "Open Source"
+      url: "/open-source"
+      weight: 2
     - identifier: blog
       name: "👨‍💻 Блог"
       url: "https://blog.husky-dev.me/"
-      weight: 1
+      weight: 3
     - identifier: ukraine
       name: "🇺🇦 Допомогти Україні"
       url: "https://prytulafoundation.org/en/donation"
-      weight: 2
+      weight: 4
 
 params:
   defaultTheme: auto
@@ -23,14 +31,20 @@ params:
     homeInfoParams:
     title: "Привіт!"
     subtitle: "Мене звати Ярослав. Я програміст. Люблю програмування, подорожі і спорт."
-    imageUrl: "avatar-001.jpg"
+    imageUrl: "avatar-003.jpg"
     buttons:
+      - name: "GitHub"
+        url: "https://github.com/husky-dev"
+        weight: 1
+      - name: "Open Source"
+        url: "/open-source"
+        weight: 2
       - name: "👨‍💻 Блог"
         url: "https://blog.husky-dev.me/"
-        weight: 1
+        weight: 3
       - name: "🇺🇦 Допомогти Україні"
         url: "https://prytulafoundation.org/en/donation"
-        weight: 2
+        weight: 4
 
   socialIcons:
     - name: "instagram"
@@ -49,31 +63,45 @@ defaultContentLanguage: "uk"
 languages:
   uk:
     weight: 1
-    languageName: "🇺🇦"
+    languageName: "🇺🇦 Uk"
   en:
     weight: 2
-    languageName: "🇺🇸"
+    languageName: "En"
     params:
       profileMode:
         enabled: true
         homeInfoParams:
         title: "Hello!"
         subtitle: "My name is Jaroslav. I am a programmer. I love programming, traveling and sports."
-        imageUrl: "avatar-001.jpg"
+        imageUrl: "avatar-003.jpg"
         buttons:
+          - name: "GitHub"
+            url: "https://github.com/husky-dev"
+            weight: 1
+          - name: "Open Source"
+            url: "/en/open-source"
+            weight: 2
           - name: "👨‍💻 Blog"
             url: "https://blog.husky-dev.me/en/"
-            weight: 1
+            weight: 3
           - name: "🇺🇦 Support Ukraine"
             url: "https://prytulafoundation.org/en/donation"
-            weight: 2
+            weight: 4
     menu:
       main:
+        - identifier: github
+          name: "GitHub"
+          url: "https://github.com/husky-dev"
+          weight: 1
+        - identifier: open-source
+          name: "Open Source"
+          url: "/en/open-source"
+          weight: 2
         - identifier: blog
           name: "👨‍💻 Blog"
           url: "https://blog.husky-dev.me/"
-          weight: 1
+          weight: 2
         - identifier: ukraine
           name: "🇺🇦 Support Ukraine"
           url: "https://prytulafoundation.org/en/donation"
-          weight: 2
+          weight: 3
