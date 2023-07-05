@@ -10,9 +10,9 @@ menu:
       name: "GitHub"
       url: "https://github.com/husky-dev"
       weight: 1
-    - identifier: open-source
-      name: "Open Source"
-      url: "/open-source"
+    - identifier: projects
+      name: "🛠️ Projects"
+      url: "/projects"
       weight: 2
     - identifier: blog
       name: "👨‍💻 Blog"
@@ -36,8 +36,8 @@ params:
       - name: "GitHub"
         url: "https://github.com/husky-dev"
         weight: 1
-      - name: "Open Source"
-        url: "/open-source"
+      - name: "🛠️ Projects"
+        url: "/projects"
         weight: 2
       - name: "👨‍💻 Blog"
         url: "https://blog.husky-dev.me/en/"
@@ -78,8 +78,8 @@ languages:
           - name: "GitHub"
             url: "https://github.com/husky-dev"
             weight: 1
-          - name: "Open Source"
-            url: "/open-source"
+          - name: "🛠️ Проекти"
+            url: "/uk/projects"
             weight: 2
           - name: "👨‍💻 Блог"
             url: "https://blog.husky-dev.me/"
@@ -93,9 +93,9 @@ languages:
           name: "GitHub"
           url: "https://github.com/husky-dev"
           weight: 1
-        - identifier: open-source
-          name: "Open Source"
-          url: "/open-source"
+        - identifier: projects
+          name: "🛠️ Проекти"
+          url: "/uk/projects"
           weight: 2
         - identifier: blog
           name: "👨‍💻 Блог"

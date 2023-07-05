@@ -1,11 +1,13 @@
 ---
-title: "Open Source"
-draft: false
+Title: "Projects"
+ShowToc: true
+TocOpen: true
+Draft: false
 ---
 
 Here you will find my Open Source projects.
 
-# Kremenchuk Public Transport
+## Kremenchuk Public Transport
 
 Map of public transport in Kremenchuk, Ukraine.
 
@@ -28,6 +30,8 @@ As practice has shown, the main use case arises when a user arrives at a bus sto
 ![Kremenchuk Public Transport - An example of the mobile interface](assets/kremen-transport/mobile.png)
 
 At the back-end, Redis is utilized for caching and Pub/Sub tasks, while transport movement logs are stored in MongoDB.
+
+![Kremenchuk Public Transport - Architecture](assets/kremen-transport/architecture.png)
 
 All user data and settings are stored locally, either in a browser or on a smartphone. The platform does not collect data specific to any individual. It only collects analytics related to the use of its features, without any reference to the individual user.
 
