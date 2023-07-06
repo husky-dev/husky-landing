@@ -59,3 +59,70 @@ It uses the same technology stack as [#Kremen.Transport](#krementransport): Mong
 - **Web:** React, TypeScript, ESBuild.
 - **Mobile:** React Native, TypeScript.
 - **API:** NodeJS, TypeScript, Docker, Docker Compose, Redis, MongoDB.
+
+## md2snipp - Markdown to VSCode snippets CLI tool
+
+A tool for generating VSCode snippets from Markdown files.
+
+**GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
+
+Snippets are cool! They help save programmers time and effort. VSCode is also cool. However, it can be challenging to store, manage, and edit multiline snippets. While the JSON format is easy to use, reviewing and editing snippets with a lot of lines can become tedious. Dealing with JSON arrays, indents, and commas may discourage you from editing snippets. Moreover, over time, you may forget some snippets and have to review the JSON file to recall them. To address these issues, I propose storing snippets in a readable Markdown format and converting them to JSON.
+
+![md2snipp - Markdown to VSCode snippets cli tool](assets/md2snipp-banner.png)
+
+Installation:
+
+```bash
+npm isntall -g md2snipp
+```
+
+Usage. Create a folder with `.md` files and with the next format:
+
+![md2snipp - Usage example](assets/md2snipp-example.png)
+
+I usually use `.vscode/snippets` folder for it. Then run next command:
+
+```bash
+npx md2snipp --root .vscode/snippets --output .vscode
+```
+The tool will look for a `.md` files at `.vscode/snippets`, will convert it to `.code-snippets` files, and will output a result to `.vscode`. It distinguishes separate snippets by the `**Prefix**` keyword and by and of the code block. You can add any other text and comments. The tool will look only for the keywords and snippet's body.
+
+## chlog-cli - Changelog generator CLI tool
+
+CLI tool for managing `CHANGELOG.md` file based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
+
+Installation: 
+
+```bash
+npm isntall -g chlog-cli
+```
+
+Or use with `npx`:
+
+```bash
+npx chlog-cli help
+```
+
+Usage. Init a new changelog:
+
+```bash
+chlog-cli init
+```
+
+Get full changelog:
+
+```bash
+chlog-cli get
+```
+
+Get all changes at `1.50.x` versions:
+
+```bash
+chlog get 1.50
+```
+
+Add record:
+
+```bash
+chlog add -a 1.50.1 "Some new feature"
+```
