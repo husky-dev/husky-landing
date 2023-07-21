@@ -8,7 +8,7 @@
 
 > TocOpen: true
 
-> Language: Uk
+> Language: uk
 
 ## Про мене
 
@@ -189,10 +189,6 @@ Nevados - система для створення і керування сон�
 ![001.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/D88FE1BD-50C5-4EDE-BB3F-FC4E1FD2E8B3_2/05xLus2g9dxi16jxyHFgdYV0Q05mR2XsfI4nY0mFtyMz/001.jpeg)
 
 ![002.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/C1462566-736C-42EB-BFC7-7142E6A89893_2/p7HgH5ZfBHes73y3mxvHVqr7ElF7yXth2TcfW0okPS0z/002.jpeg)
-
-[Screen Recording 2019-10-02 at 9.05.52 PM.mov](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/124DF906-9E54-407F-8BF3-B8CC5EA9C6EF_2/em83dwrBAO2MHkximtOj0QcKgzse6KXyAeCQvHpiiMAz/Screen%20Recording%202019-10-02%20at%209.05.52%20PM.mov)
-
-[RPReplay_Final1564062777.mp4](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/4692317F-6AA1-4114-89A1-ECB2D84CF2F8_2/AhGwsQpAVBKqYNiqYRbJbBTGS22Blao5esvnhyxY7lUz/RPReplay_Final1564062777.mp4)
 
 ### 🇺🇸 Pando - Software engineer
 

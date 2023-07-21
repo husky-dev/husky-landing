@@ -3,7 +3,6 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 320px;
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
 }
 
@@ -47,13 +46,13 @@
     transform: scale(0.96);
 }
 
-.tag-entry .entry-cover {
-    display: none;
-}
-
 .entry-header h2 {
     font-size: 24px;
     line-height: 1.3;
+}
+
+.entry-series {
+    margin-top: 6px;
 }
 
 .entry-content {
@@ -82,8 +81,13 @@
 
 .entry-cover,
 .entry-isdraft {
-    font-size: 14px;
+    font-size: 18px;
     color: var(--secondary);
+    font-weight: 500;
+}
+
+.entry-cover > p {
+    padding: 10px;
 }
 
 .entry-cover {
@@ -92,7 +96,7 @@
 }
 
 .entry-cover img {
-    border-radius: var(--radius);
+    border-radius: 16px;
     pointer-events: none;
     width: 100%;
     height: auto;

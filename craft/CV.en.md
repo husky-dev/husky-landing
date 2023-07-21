@@ -54,6 +54,8 @@ Subsequently, a website was developed using React and Gatsby. All content on the
 
 **Results:** apps in the [App Store](https://apps.apple.com/ua/app/family-caregiving-circleof/id1298712207), [Google Play](https://play.google.com/store/apps/details?id=com.mywaysmobile) and a [website](https://circleof.com/).
 
+----
+
 ![circleof-ios-5.5-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/161F8B5B-1DCE-4F43-AC2B-E4F36471543B_2/WOAsAzfCS4c1f0EbQYkeoyenvTTidNildEVzaSBVADkz/circleof-ios-5.5-000.png)
 
 ![circleof-ios-5.5-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/2EDBB2BE-32DB-4B8D-9B3D-C971E95E15FD_2/VLrfEOfoCRXj2SKV5WFlDjihfnueTYBHHJ58fQsnuf0z/circleof-ios-5.5-001.png)
@@ -76,6 +78,8 @@ Subsequently, a website was developed using React and Gatsby. All content on the
 
 ![circleof-web-003.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/AD9BE731-8919-46C6-9D74-D5BA3FB736D6_2/1WWR1ccJ53mRRjkrPe8MIzBxcE4tGaQqFBrNWHdClz4z/circleof-web-003.png)
 
+----
+
 ### 🇺🇸 Watery - Full-stack developer
 
 **Period:** June 2021 - August 2022 (1 year, 2 months)
@@ -92,11 +96,15 @@ The front-end was developed using React, while NodeJS was used for the back end.
 
 **Results:** the application is launched in production.
 
+----
+
 ![watery-web-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/303BB80C-531F-4AF3-AD11-2C350B608350_2/JqansgZzR1mwyipVmxOeOnAxRuz24KSCICyPyEuX1icz/watery-web-000.png)
 
 ![watery-web-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/FAB2EBFF-51D9-44AF-81C3-49DA9C8FB788_2/PYC8mnyiPAgKHCQGEiyknbyI5rLnX2zjuwNAM3SExeEz/watery-web-001.png)
 
 ![watery-web-002.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/15732AED-6E94-4395-8D09-BAF00C76D960_2/N7zMHkfTJNeYBytKHXuffvlyjgHeTkBy2GFxRLEiXNoz/watery-web-002.png)
+
+----
 
 ### 🇺🇸 Iris - Full-stack developer
 
@@ -126,7 +134,9 @@ Flow is an application that facilitates booking spaces in coworking locations or
 
 When I joined the startup, it was in its early stages with the application existing only as a prototype. My task was to transform this prototype into a full-fledged application and launch it on both the App Store and Google Play. I rewrote the application in TypeScript from JavaScript, altered the design to align with the brand book, and incorporated the ability to process payments through Stripe.
 
-**Results:** the app was published in the [App Store](https://apps.apple.com/app/1560246719) and [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), and the project was successfully launched..
+**Results:** the app was published in the [App Store](https://apps.apple.com/app/1560246719) and [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), and the project was successfully launched.
+
+----
 
 ![ios-5.5-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/1FE64E64-D82A-4CAF-BBD6-F4BF27BC6732_2/WP7j2ydQGUTkt58Y8DnCvTSQpDA27SPatTLh8yMn1h0z/ios-5.5-000.png)
 
@@ -141,6 +151,8 @@ When I joined the startup, it was in its early stages with the application exist
 ![ios-5.5-005.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/4A0F2E7F-1374-4EAC-B8AF-7EF9D27B8BBC_2/VEVO0XmAl4XtTPTLaAPzAQWygw0aplIUwjxhVSOxOI0z/ios-5.5-005.png)
 
 ![ios-5.5-006.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/776AD70D-582E-4881-BFEA-E8AFBEAB5513_2/RGmiUAdxP8mTppLiHk2lEzBbywoUSTNtWtD3E9ELk1Mz/ios-5.5-006.png)
+
+----
 
 ### 🇺🇸 Captains Club  - React Native developer
 
@@ -158,11 +170,15 @@ When I joined the project, it only had a web application, which was written in R
 
 **Results:** apps in the [App Store](https://apps.apple.com/app/1502096463) and [Google Play](https://play.google.com/store/apps/details?id=club.captains.mobile&hl=en&gl=US).
 
+----
+
 ![ios-6.5-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/B54F3AF7-11CC-493C-A5DA-76949F619097_2/0f3YC85TjIRVAzLV8JipyK7TWT3UnxteYU66L61xFN4z/ios-6.5-000.png)
 
 ![ios-6.5-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/F650B6EC-8A89-4BEA-A81B-91C68CD95F7B_2/FptJALvl7PVfczZMfu3IfPsrthfgcdlbaAwNm2JtjpMz/ios-6.5-001.png)
 
 ![ios-6.5-002.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/A53E8F0B-DC1B-40FD-88B3-7B86FBBED431_2/tL5sO6qOJyfLz4NrhNtq6NgWQ7L8yveSHoHltV03hqIz/ios-6.5-002.png)
+
+----
 
 ### 🇺🇸 Nevados - front-end developer
 
@@ -182,6 +198,8 @@ Additionally, I created a mobile application in React Native. This app allows op
 
 **Results:** the system was put into operation and the mobile application was published on Google Play.
 
+----
+
 ![image-20190902-153755.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/33BCE3D1-86AD-4368-A91D-33FAF1E2F8DD_2/iyWsBSmeR9tRUQb5TqdeJEdD5GFZxuD6vbLE2eOPrV8z/image-20190902-153755.png)
 
 ![image-20191002-134045.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/BD5D59F7-0845-466B-B573-62F928808BA2_2/qlQIJ7c2ZlGc2y9g5Kte2RUWbIn0zYMBzw6rm0yOLhgz/image-20191002-134045.png)
@@ -192,9 +210,7 @@ Additionally, I created a mobile application in React Native. This app allows op
 
 ![002.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/C1462566-736C-42EB-BFC7-7142E6A89893_2/p7HgH5ZfBHes73y3mxvHVqr7ElF7yXth2TcfW0okPS0z/002.jpeg)
 
-[Screen Recording 2019-10-02 at 9.05.52 PM.mov](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/124DF906-9E54-407F-8BF3-B8CC5EA9C6EF_2/em83dwrBAO2MHkximtOj0QcKgzse6KXyAeCQvHpiiMAz/Screen%20Recording%202019-10-02%20at%209.05.52%20PM.mov)
-
-[RPReplay_Final1564062777.mp4](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/4692317F-6AA1-4114-89A1-ECB2D84CF2F8_2/AhGwsQpAVBKqYNiqYRbJbBTGS22Blao5esvnhyxY7lUz/RPReplay_Final1564062777.mp4)
+----
 
 ### 🇺🇸 Pando - Software engineer
 
@@ -214,6 +230,8 @@ Another challenge was updating the device's firmware. We needed to prevent any n
 
 **Results:** the project was finalized and successfully launched.
 
+----
+
 ![000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/B9C9C62A-F1D1-48EF-A90F-E5C5124BC62B_2/xUUuJrWrCrx9NtEiiETpbVPuJJSoD5y8mVj3hvqM5r4z/000.png)
 
 ![001.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/7F47B78A-70F2-40F0-B18F-E318EA52689C_2/qMO73pZLf8x1JQ9yqzh7bKrAkTqZUFHwZR24hUU6Mecz/001.jpeg)
@@ -225,6 +243,8 @@ Another challenge was updating the device's firmware. We needed to prevent any n
 ![005.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/B43FBC78-E5C0-4E29-B56D-EF5203C143F7_2/9A8Uf2EKWrPnIg96pJ5aPGagQDaLMxWxLz9iNbKk7p4z/005.png)
 
 ![006.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/40FB61C7-5029-485F-8B2B-E83B0CCFE015_2/x6vBR7WC5yR3bwu7TlhPjHSDRQpdhpulx20iQihgpFgz/006.png)
+
+----
 
 ### 🇺🇦 Hromadske.Kremenchuk - CTO
 
@@ -272,6 +292,8 @@ Subsequently, the editorial team decided to develop an iOS application. Its core
 
 **Results:** the website loading speed increased four times. The app was published in the App Store and had about a thousand users.
 
+----
+
 ![IMG_0334.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/517DCF0E-2AF1-44FC-AC3D-428AE30AD19B_2/O3JUKgSlMys28TxOan8RNCxtshT9nsOvoYD397lhogcz/IMG_0334.jpeg)
 
 ![IMG_0332.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/204C57F9-978F-473C-95B1-B8CCCAF49D09_2/aiWaWGXCgQtL3CyxCgyh5CxTrFZNrP1cjPtbEQzQly0z/IMG_0332.jpeg)
@@ -301,6 +323,8 @@ Subsequently, the editorial team decided to develop an iOS application. Its core
 ![IMG_0342.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/1043C0F4-1345-4CCA-A8A6-4497A9F88E5A_2/Xuly5TPlMfE5jnJ4vxIUapkVAnjQ4xwnmfGfwGaLj2Az/IMG_0342.jpeg)
 
 ![IMG_0343.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/A9AFB916-1FA2-4575-AAE2-08FB62B15C26_2/KItwgxt5LgGs6zs1uy3EDJxKxlVpWUYOc9kBMZxBesUz/IMG_0343.jpeg)
+
+----
 
 ### 🇺🇦 RiverSoft - Delphi, C# developer
 

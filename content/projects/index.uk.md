@@ -1,37 +1,37 @@
 ---
-Title: "Проекти"
-Draft: false
+title: "Проекти"
 ShowToc: true
 TocOpen: true
+draft: false
 ---
 
 Тут ви знайдете мої Open Source проекти.
 
-## #Кремінь.Транспорт
+## \#Кремінь.Транспорт
 
 Карта руху громадського транспорту у місті Кременчук, Україна.
 
-- **GitHub:** 
-  - **Web:** [kremen-transport-web](https://github.com/husky-dev/kremen-transport-web)
-  - **Mobile:** [kremen-transport-mobile](https://github.com/husky-dev/kremen-transport-mobile)
-  - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
+- **GitHub:**
+ - **Web:** [kremen-transport-web](https://github.com/husky-dev/kremen-transport-web)
+ - **Mobile:** [kremen-transport-mobile](https://github.com/husky-dev/kremen-transport-mobile)
+ - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
 - **Web:** [https://transport.kremen.dev](https://transport.kremen.dev)
 - **iOS:** [Кременчук Транспорт](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756)
 - **Android:** [Кременчук Транспорт](https://play.google.com/store/apps/details?id=com.krementransport)
 
 Додаток для відстежування руху автобусів, тролейбусів і маршруток міста Кременчук. За допомогою нього можна дізнатись час прибуття транспорту на зупинку і бачити на мапі тільки потрібні маршрути.
 
-![Кремінь.Транспорт - Карта руху громадського транспорту у місті Кременчук](assets/kremen-transport-web.jpg)
+![kremen-transport-web.jpeg](assets/kremen-transport-web-1148.jpg)
 
-Проект починався як pet-проект, який я використовував для тестування нових технологій, бібліотек та архітектурних рішень. Згодом, він набрав базу користувачів та почав використовуватись на офіційному сайті [Кременчуцької міської ради](https://kremen.gov.ua/). 
+Проект починався як pet-проект, який я використовував для тестування нових технологій, бібліотек та архітектурних рішень. Згодом, він набрав базу користувачів та почав використовуватись на офіційному сайті [Кременчуцької міської ради](https://kremen.gov.ua/).
 
 Як показала практика, основний варіант використання - користувач приходить на зупинку і хоче дізнатись через скільки буде потрібний йому транспорт. Для того, щоб цей випадок був максимально ефективний, зроблені оптимізації в інтерфейсі та API. При запуску відразу відображається поточне місце положення користувача, найближчі зупинки та транспорт. Дотаток робить запити до API для отримання поточного положеня транспорту тільки обраних користувачем маршрутів, щоб back-end мав змогу відправити мінімальний пакет даних. Після цього, встановлюється зв’язок з back-end за допомогою web sockets і користувач отримує дані з серверу в реальному часі.
 
-![Кремінь.Транспорт - Приклад мобільного інтерфейсу](assets/kremen-transport-mobile.png)
+![kremen-transport-mobile.png](assets/kremen-transport-mobile-0e80.png)
 
 На back-end для кешування та Pub/Sub задач використовується Redis. Логи переміщення транспорту зберігаються в MongoDB.
 
-![Кремінь.Транспорт - Архітектура](assets/kremen-transport-architecture.png)
+![kremen-transport-architecture.png](assets/kremen-transport-architecture-94b9.png)
 
 Всі дані та налаштування користувачів зберігаються локально в браузері або на смартфоні. Платформа не збирає данні про конкретну людину. Збирається тільки аналітика використання функцій без прив’язки до користувача.
 
@@ -41,20 +41,20 @@ TocOpen: true
 - **Mobile:** React Native, TypeScript.
 - **API:** NodeJS, TypeScript, Docker, Docker Compose, Redis, MongoDB.
 
-## #Кремінь.Техніка
+## \#Кремінь.Техніка
 
 Карта руху комунальної техніки, снігоприбиральників, посипальників та тракторів у місті Кременчук, Україна.
 
-- **GitHub:** 
-  - **Web:** [kremen-equipment-web](https://github.com/husky-dev/kremen-equipment-web)
-  - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
+- **GitHub:**
+ - **Web:** [kremen-equipment-web](https://github.com/husky-dev/kremen-equipment-web)
+ - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
 - **Web:** [https://equipment.kremen.dev](https://equipment.kremen.dev)
 
-Ідея цього проекту виникла взимку. Хотілось дізнатись які райони після сильних снігопадів снігоприбиральники чистять ефективно, а які не дуже.  На сайті [Кременчуцької міської ради](https://kremen.gov.ua/) є карта переміщення комунальної техніки. Але в ній немає можливості переглядати історію. Та і взагалі, було б непогано бачити теплову карту роботи техніки, щоб можна було наглядно подивитись як за добу чистили твій район. Так і виник цей додаток.
+Ідея цього проекту виникла взимку. Хотілось дізнатись які райони після сильних снігопадів снігоприбиральники чистять ефективно, а які не дуже. На сайті [Кременчуцької міської ради](https://kremen.gov.ua/) є карта переміщення комунальної техніки. Але в ній немає можливості переглядати історію. Та і взагалі, було б непогано бачити теплову карту роботи техніки, щоб можна було наглядно подивитись як за добу чистили твій район. Так і виник цей додаток.
 
-![Кремінь.Техніка - Карта руху комунальної техніки, снігоприбиральників, посипальників та тракторів у місті Кременчук](assets/kremen-equipment-web.jpg)
+![kremen-equipment-web.jpeg](assets/kremen-equipment-web-23f4.jpg)
 
-Він використовує той же стек технологій, що і [#Кремінь.Транспорт](#креміньтранспорт): MongoDB для ведення логу переміщень та Redis для кешування даних.
+Він використовує той же стек технологій, що і [\#Кремінь.Транспорт](#%D0%BA%D1%80%D0%B5%D0%BC%D1%96%D0%BD%D1%8C%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82): MongoDB для ведення логу переміщень та Redis для кешування даних.
 
 - **Web:** React, TypeScript, ESBuild.
 - **Mobile:** React Native, TypeScript.
@@ -66,21 +66,21 @@ TocOpen: true
 
 Сніппети - це круто! Вони допомагають економити час і зусилля програмістів. VSCode - це теж круто. Однак зберігати, керувати та редагувати багаторядкові сніпети може бути складно. Хоча формат JSON простий у використанні, перегляд і редагування фрагментів з великою кількістю рядків може стати нудним. Робота з масивами JSON, відступами і комами може відштовхнути вас від редагування фрагментів. Більше того, з часом ви можете забути деякі сніпети, і вам доведеться переглядати JSON-файл, щоб їх згадати. Щоб вирішити ці проблеми, я пропоную зберігати сніпети у зручному для читання форматі Markdown і конвертувати їх у JSON.
 
-![md2snipp - CLI утиліта для генерації VSCode сніпетів з Markdown файлів](assets/md2snipp-banner.png)
+![md2snipp-banner.png](assets/md2snipp-banner-a671.png)
 
 Встановлення:
 
-```bash
+```other
 npm isntall -g md2snipp
 ```
 
 Використання. Створіть папку з файлами `.md` наступного формату:
 
-![md2snipp - Приклад використання](assets/md2snipp-example.png)
+![md2snipp-example.png](assets/md2snipp-example-cb14.png)
 
 Зазвичай я використовую для цього папку `.vscode/snippets`. Потім виконайте наступну команду:
 
-```bash
+```other
 npx md2snipp --root .vscode/snippets --output .vscode
 ```
 
@@ -90,38 +90,38 @@ npx md2snipp --root .vscode/snippets --output .vscode
 
 CLI-утиліта для керування файлом `CHANGELOG.md` на основі формату [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-Встановлення: 
+Встановлення:
 
-```bash
+```other
 npm isntall -g chlog-cli
 ```
 
 Або використовуйте з `npx`:
 
-```bash
+```other
 npx chlog-cli help
 ```
 
 Використання. Запустити новий журнал змін:
 
-```bash
+```other
 chlog-cli init
 ```
 
 Отримайте повний журнал змін:
 
-```bash
+```other
 chlog-cli get
 ```
 
 Отримайте всі зміни у версії `1.50.x`:
 
-```bash
+```other
 chlog get 1.50
 ```
 
 Додати запис:
 
-```bash
+```other
 chlog add -a 1.50.1 "Some new feature"
 ```

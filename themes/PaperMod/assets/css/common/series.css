@@ -1,0 +1,47 @@
+.series {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.series-entry,
+.series-entry:visited,
+.series-entry:active,
+.series-entry:focus,
+.series-entry:link {
+  display: block;
+  padding: 3px 10px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: all 0.3s ease-in-out;
+}
+
+.series-kilimanjaro {
+  background-color: #03FFB980;
+  color: white;
+}
+
+.series-namibia {
+  background-color: #FFE9CD;
+  color: #6F7478;
+}
+
+.series-work-and-travel {
+  background-color: #FF5C5B;
+  color: #fff;
+}
+
+.series-singapore {
+  background-color: #D17BF8;
+  color: #fff;
+}
+
+.series-new-zealand {
+  background-color: #4192F7;
+  color: #fff;
+}
+
+.series-entry:hover {
+  opacity: 0.8;
+}

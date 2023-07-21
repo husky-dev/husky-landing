@@ -20,6 +20,13 @@
       {{- partial "post_canonical.html" . -}}
     </div>
     {{- end }}
+    {{/* Series */}}
+    {{- if .Params.Series }}
+      <div class="post-series series">
+        {{- partial "series.html" .}}
+      </div>
+    {{- end }}
+    {{/* Series End */}}
   </header>
   {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
@@ -49,6 +56,13 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
+
+  {{/* Remark42 comments */}}
+  <script>var remark_config = { host: 'https://remark42.husky-dev.me', site_id: 'husky-blog', theme: 'dark', locale: 'ua' }</script>
+  <script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement("script"),c=".js",d=n.head||n.body;"noModule"in r?(r.type="module",c=".mjs"):r.async=!0,r.defer=!0,r.src=remark_config.host+"/web/"+e[o]+c,d.appendChild(r)}}(remark_config.components||["embed"],document);</script>
+  <div id="remark42"></div>
+  {{/* Remark42 comments end */}}
+
 
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
