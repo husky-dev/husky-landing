@@ -133,24 +133,3 @@
     });
 </script>
 {{- end }}
-
-{{- /* PhotoSwipe */}}
-{{- $photoswipeLightbox_js := slice (resources.Get "photoswipe/photoswipe-lightbox.esm.min.js") | resources.Concat "assets/js/photoswipe-lightbox.esm.js" }}
-{{- $photoswipe_js := slice (resources.Get "photoswipe/photoswipe.esm.min.js") | resources.Concat "assets/js/photoswipe.esm.js" }}
-<script type="module">
-import PhotoSwipeLightbox from '{{ $photoswipeLightbox_js.RelPermalink }}';
-(() => {
-  const lightboxSinglePhoto = new PhotoSwipeLightbox({
-    gallery: '.pswp-single-photo',
-    children: 'a',
-    pswpModule: () => import('{{ $photoswipe_js.RelPermalink }}')
-  });
-  lightboxSinglePhoto.init();
-  const lightboxGallery = new PhotoSwipeLightbox({
-    gallery: '.pswp-gallery',
-    children: 'a',
-    pswpModule: () => import('{{ $photoswipe_js.RelPermalink }}')
-  });
-  lightboxGallery.init();
-})();
-</script>

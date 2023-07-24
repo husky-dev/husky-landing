@@ -13,10 +13,6 @@
     margin-bottom: 5px;
 }
 
-.post-description p {
-    margin-bottom: var(--content-gap);
-}
-
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
@@ -30,10 +26,6 @@
     list-style: none;
     margin: auto 3px;
     box-shadow: 0 1px 0 var(--secondary);
-}
-
-.post-series {
-    margin-top: 6px;
 }
 
 .breadcrumbs a {
@@ -80,6 +72,8 @@
 .post-content a,
 .toc a:hover {
     box-shadow: 0 1px 0;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
 
 .post-content a code {
@@ -89,8 +83,7 @@
 }
 
 .post-content del {
-    text-decoration: none;
-    background: linear-gradient(to right, var(--primary) 100%, transparent 0) 0 50%/1px 1px repeat-x;
+    text-decoration: line-through;
 }
 
 .post-content dl,
@@ -235,13 +228,12 @@
 }
 
 .post-content img {
-    border-radius: 16px;
-    margin: 0 auto;
-    max-height: 80vh;
+    border-radius: 4px;
+    margin: 1rem 0;
 }
 
-.post-content figure {
-    padding-top: 1rem;
+.post-content img[src*="#center"] {
+    margin: 1rem auto;
 }
 
 .post-content figure.align-center {
@@ -249,47 +241,16 @@
 }
 
 .post-content figure > figcaption {
-    color: var(--secondary);
-    font-size: 18px;
-    font-weight: 500;
-    /* margin-top: -0.5rem;
-    margin-bottom: 0.5px;
-    margin-left: 16px;
-    margin-right: 16px; */
-    padding: 10px;
-    text-align: center;
-}
-
-.post-content figure > .video-wrap + figcaption {
-    margin-top: 0.5rem;
+    color: var(--primary);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 8px 0 16px;
 }
 
 .post-content figure > figcaption > p {
     color: var(--secondary);
-    font-size: 18px;
-    font-weight: 500;
-}
-
-.post-content > div {
-    margin-bottom: var(--content-gap);
-}
-
-.post-content .pswp-gallery {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: start;
-}
-
-.post-content .pswp-gallery figure {
-    margin-left: 4px;
-    margin-right: 4px;
-    margin-bottom: 8px;
-}
-
-.post-content .pswp-gallery figure img {
-    margin: 0;
-    border-radius: 4px;
+    font-size: 14px;
+    font-weight: normal;
 }
 
 .toc {
@@ -380,17 +341,6 @@
     margin-inline-end: 12px;
 }
 
-.share-buttons a svg {
-    height: 30px;
-    width: 30px;
-    fill: currentColor;
-    transition: transform 0.1s;
-}
-
-.share-buttons svg:active {
-    transform: scale(0.96);
-}
-
 h1:hover .anchor,
 h2:hover .anchor,
 h3:hover .anchor,
@@ -412,8 +362,9 @@ h6:hover .anchor {
 }
 
 .paginav a {
+    padding-inline-start: 14px;
+    padding-inline-end: 14px;
     border-radius: var(--radius);
-    padding: 10px 14px;
 }
 
 .paginav .title {
@@ -443,4 +394,9 @@ h6:hover .anchor {
 
 h1>a>svg {
     display: inline;
+}
+
+img.in-text {
+    display: inline;
+    margin: auto;
 }

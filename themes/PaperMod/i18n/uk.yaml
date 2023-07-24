@@ -1,14 +1,8 @@
-- id: prev_post
-  translation: "Попередній пост"
-
-- id: next_post
-  translation: "Наступний пост"
-
 - id: prev_page
-  translation: "Попередня сторінка"
+  translation: "Попередня"
 
 - id: next_page
-  translation: "Наступна сторінка"
+  translation: "Наступна"
 
 - id: read_time
   translation:
@@ -29,18 +23,3 @@
 
 - id: code_copied
   translation: "скопійовано!"
-
-- id: kilimanjaro
-  translation: "🇹🇿 Похід на вершину Кіліманджаро"
-
-- id: namibia
-  translation: "🇳🇦 Намібія на джипах"
-
-- id: work-and-travel
-  translation: "🇺🇸 Work and Travel"
-
-- id: singapore
-  translation: "🇸🇬 Сінгапур"
-
-- id: new-zealand
-  translation: "🇳🇿 Нова Зеландія"
