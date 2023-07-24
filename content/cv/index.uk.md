@@ -47,27 +47,19 @@ CircleOf - додаток для організації допомоги люд�
 
 **Результати:** додатки в [App Store](https://apps.apple.com/ua/app/family-caregiving-circleof/id1298712207), [Google Play](https://play.google.com/store/apps/details?id=com.mywaysmobile) і [вебсайт](https://circleof.com/).
 
-![circleof-ios-5.5-000.png](assets/circleof-ios-5-5-000-4bea.png)
-
-![circleof-ios-5.5-001.png](assets/circleof-ios-5-5-001-744b.png)
-
-![circleof-ios-5.5-002.png](assets/circleof-ios-5-5-002-593d.png)
-
-![circleof-ios-5.5-003.png](assets/circleof-ios-5-5-003-c847.png)
-
-![circleof-ios-5.5-004.png](assets/circleof-ios-5-5-004-c170.png)
-
-![circleof-ios-5.5-005.png](assets/circleof-ios-5-5-005-aa09.png)
-
-![circleof-ios-5.5-006.png](assets/circleof-ios-5-5-006-bb98.png)
-
-![circleof-web-000.png](assets/circleof-web-000-8ab3.png)
-
-![circleof-web-001.png](assets/circleof-web-001-7a73.png)
-
-![circleof-web-002.png](assets/circleof-web-002-3e0d.png)
-
-![circleof-web-003.png](assets/circleof-web-003-4416.png)
+{{< gallery >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-000-4bea.png" caption="circleof-ios-5.5-000.png" >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-001-744b.png" caption="circleof-ios-5.5-001.png" >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-002-593d.png" caption="circleof-ios-5.5-002.png" >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-003-c847.png" caption="circleof-ios-5.5-003.png" >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-004-c170.png" caption="circleof-ios-5.5-004.png" >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-005-aa09.png" caption="circleof-ios-5.5-005.png" >}}
+  {{< gallery_item src="assets/circleof-ios-5-5-006-bb98.png" caption="circleof-ios-5.5-006.png" >}}
+  {{< gallery_item src="assets/circleof-web-000-8ab3.png" caption="circleof-web-000.png" >}}
+  {{< gallery_item src="assets/circleof-web-001-7a73.png" caption="circleof-web-001.png" >}}
+  {{< gallery_item src="assets/circleof-web-002-3e0d.png" caption="circleof-web-002.png" >}}
+  {{< gallery_item src="assets/circleof-web-003-4416.png" caption="circleof-web-003.png" >}}
+{{< /gallery >}}
 
 ### 🇺🇸 Watery - Full-stack developer
 
@@ -85,11 +77,11 @@ Front-end розроблений на React. Back-end - NodeJS. Для отри�
 
 **Результати:** додаток запущений в продакшен і виконує свої функції.
 
-![watery-web-000.png](assets/watery-web-000-d1f7.png)
-
-![watery-web-001.png](assets/watery-web-001-625a.png)
-
-![watery-web-002.png](assets/watery-web-002-52aa.png)
+{{< gallery >}}
+  {{< gallery_item src="assets/watery-web-000-d1f7.png" caption="watery-web-000.png" >}}
+  {{< gallery_item src="assets/watery-web-001-625a.png" caption="watery-web-001.png" >}}
+  {{< gallery_item src="assets/watery-web-002-52aa.png" caption="watery-web-002.png" >}}
+{{< /gallery >}}
 
 ### 🇺🇸 Iris - Full-stack developer
 
@@ -121,19 +113,15 @@ Flow - додаток, за допомогою якого можна забро�
 
 **Результати:** застосунок був опублікований в [App Store](https://apps.apple.com/app/1560246719) і [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), проект було успішно запущений.
 
-![ios-5.5-000.png](assets/ios-5-5-000-496a.png)
-
-![ios-5.5-001.png](assets/ios-5-5-001-317e.png)
-
-![ios-5.5-002.png](assets/ios-5-5-002-22bb.png)
-
-![ios-5.5-003.png](assets/ios-5-5-003-9079.png)
-
-![ios-5.5-004.png](assets/ios-5-5-004-8cb1.png)
-
-![ios-5.5-005.png](assets/ios-5-5-005-f578.png)
-
-![ios-5.5-006.png](assets/ios-5-5-006-3f67.png)
+{{< gallery >}}
+  {{< gallery_item src="assets/ios-5-5-000-496a.png" caption="ios-5.5-000.png" >}}
+  {{< gallery_item src="assets/ios-5-5-001-317e.png" caption="ios-5.5-001.png" >}}
+  {{< gallery_item src="assets/ios-5-5-002-22bb.png" caption="ios-5.5-002.png" >}}
+  {{< gallery_item src="assets/ios-5-5-003-9079.png" caption="ios-5.5-003.png" >}}
+  {{< gallery_item src="assets/ios-5-5-004-8cb1.png" caption="ios-5.5-004.png" >}}
+  {{< gallery_item src="assets/ios-5-5-005-f578.png" caption="ios-5.5-005.png" >}}
+  {{< gallery_item src="assets/ios-5-5-006-3f67.png" caption="ios-5.5-006.png" >}}
+{{< /gallery >}}
 
 ### 🇺🇸 Captains Club - React Native developer
 
@@ -151,11 +139,11 @@ Captains Club - закрита соціальна мережа для гравц
 
 **Результати:** додатки в [App Store](https://apps.apple.com/app/1502096463) і [Google Play](https://play.google.com/store/apps/details?id=club.captains.mobile&hl=en&gl=US).
 
-![ios-6.5-000.png](assets/ios-6-5-000-e6d3.png)
-
-![ios-6.5-001.png](assets/ios-6-5-001-2a9e.png)
-
-![ios-6.5-002.png](assets/ios-6-5-002-109a.png)
+{{< gallery >}}
+  {{< gallery_item src="assets/ios-6-5-000-e6d3.png" caption="ios-6.5-000.png" >}}
+  {{< gallery_item src="assets/ios-6-5-001-2a9e.png" caption="ios-6.5-001.png" >}}
+  {{< gallery_item src="assets/ios-6-5-002-109a.png" caption="ios-6.5-002.png" >}}
+{{< /gallery >}}
 
 ### 🇺🇸 Nevados - front-end developer
 
@@ -175,15 +163,13 @@ Nevados - система для створення і керування сон�
 
 **Результати:** система запущена в експлуатацію, мобільний додаток опублікований в Google Play.
 
-![image-20190902-153755.png](assets/image-20190902-153755-104c.png)
-
-![image-20191002-134045.png](assets/image-20191002-134045-dd3b.png)
-
-![000.jpeg](assets/000-07ad.jpg)
-
-![001.jpeg](assets/001-f2c2.jpg)
-
-![002.jpeg](assets/002-e574.jpg)
+{{< gallery >}}
+  {{< gallery_item src="assets/image-20190902-153755-104c.png" caption="image-20190902-153755.png" >}}
+  {{< gallery_item src="assets/image-20191002-134045-dd3b.png" caption="image-20191002-134045.png" >}}
+  {{< gallery_item src="assets/000-07ad.jpg" caption="000.jpeg" >}}
+  {{< gallery_item src="assets/001-f2c2.jpg" caption="001.jpeg" >}}
+  {{< gallery_item src="assets/002-e574.jpg" caption="002.jpeg" >}}
+{{< /gallery >}}
 
 ### 🇺🇸 Pando - Software engineer
 
@@ -203,17 +189,14 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 **Результати:** проект було доведено до готового продукту і успішно запущено.
 
-![000.png](assets/000-f292.png)
-
-![001.jpeg](assets/001-b073.jpg)
-
-![002.png](assets/002-acad.png)
-
-![004.jpeg](assets/004-3437.jpg)
-
-![005.png](assets/005-a13b.png)
-
-![006.png](assets/006-f71d.png)
+{{< gallery >}}
+  {{< gallery_item src="assets/000-f292.png" caption="000.png" >}}
+  {{< gallery_item src="assets/001-b073.jpg" caption="001.jpeg" >}}
+  {{< gallery_item src="assets/002-acad.png" caption="002.png" >}}
+  {{< gallery_item src="assets/004-3437.jpg" caption="004.jpeg" >}}
+  {{< gallery_item src="assets/005-a13b.png" caption="005.png" >}}
+  {{< gallery_item src="assets/006-f71d.png" caption="006.png" >}}
+{{< /gallery >}}
 
 ### 🇺🇦 Hromadske.Kremenchuk - CTO
 
@@ -237,11 +220,14 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 Пізніше я створив спеціальний окремий додаток на Electron - Streamer, за допомогою якого можна було формувати ефір телебачення. Він складався з двох вікон. Перше вікно у вигляді календаря, в котрому можна досить просто додавати відео, прямі включення, рекламу і бачити, що зараз відтворюється в ефірі. У другому - вікно відтворення ефіру, котра потім захвачувалось комп’ютером і стрімилось в ефір.
 
-![image.png](assets/image-5cf7.png)
-
 Також, для економії, я створював власні пристрої. Наприклад пристрій для підсвічування активної камери. Коли режисер ефіру вмикає якусь камеру в ефір, над нею загоряється червоний світлодіод і журналісти знають куди їм зараз треба дивитись. На ринку такі пристрої коштують $200 - $300. Наші коштували $10.
 
-![Результати:](assets/rezultati-15f4.jpg "Результати:") була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+**Результати:** була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+
+{{< gallery >}}
+  {{< gallery_item src="assets/image-5cf7.png" caption="image.png" >}}
+  {{< gallery_item src="assets/img-4336-15f4.jpg" caption="IMG_4336.jpeg" >}}
+{{< /gallery >}}
 
 ### 🇺🇦 Visnyk Kremenchuka - iOS, PHP developer
 
@@ -259,35 +245,23 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 **Результати:** швидкість завантаження сайту зросло в 4 рази. Додаток був опублікований в App Store та мав близько тисячі користувачів.
 
-![IMG_0334.jpeg](assets/img-0334-a090.jpg)
-
-![IMG_0332.jpeg](assets/img-0332-9322.jpg)
-
-![IMG_0283.jpeg](assets/img-0283-7168.jpg)
-
-![IMG_0286.jpeg](assets/img-0286-d330.jpg)
-
-![IMG_0287.jpeg](assets/img-0287-0921.jpg)
-
-![IMG_0284.jpeg](assets/img-0284-2159.jpg)
-
-![IMG_0318.jpeg](assets/img-0318-17cd.jpg)
-
-![IMG_0330.jpeg](assets/img-0330-83e6.jpg)
-
-![IMG_0338.jpeg](assets/img-0338-c8cb.jpg)
-
-![IMG_0339.jpeg](assets/img-0339-a0da.jpg)
-
-![IMG_0288.jpeg](assets/img-0288-34af.jpg)
-
-![IMG_0340.jpeg](assets/img-0340-1162.jpg)
-
-![IMG_0341.jpeg](assets/img-0341-996c.jpg)
-
-![IMG_0342.jpeg](assets/img-0342-d179.jpg)
-
-![IMG_0343.jpeg](assets/img-0343-f407.jpg)
+{{< gallery >}}
+  {{< gallery_item src="assets/img-0334-a090.jpg" caption="IMG_0334.jpeg" >}}
+  {{< gallery_item src="assets/img-0332-9322.jpg" caption="IMG_0332.jpeg" >}}
+  {{< gallery_item src="assets/img-0283-7168.jpg" caption="IMG_0283.jpeg" >}}
+  {{< gallery_item src="assets/img-0286-d330.jpg" caption="IMG_0286.jpeg" >}}
+  {{< gallery_item src="assets/img-0287-0921.jpg" caption="IMG_0287.jpeg" >}}
+  {{< gallery_item src="assets/img-0284-2159.jpg" caption="IMG_0284.jpeg" >}}
+  {{< gallery_item src="assets/img-0318-17cd.jpg" caption="IMG_0318.jpeg" >}}
+  {{< gallery_item src="assets/img-0330-83e6.jpg" caption="IMG_0330.jpeg" >}}
+  {{< gallery_item src="assets/img-0338-c8cb.jpg" caption="IMG_0338.jpeg" >}}
+  {{< gallery_item src="assets/img-0339-a0da.jpg" caption="IMG_0339.jpeg" >}}
+  {{< gallery_item src="assets/img-0288-34af.jpg" caption="IMG_0288.jpeg" >}}
+  {{< gallery_item src="assets/img-0340-1162.jpg" caption="IMG_0340.jpeg" >}}
+  {{< gallery_item src="assets/img-0341-996c.jpg" caption="IMG_0341.jpeg" >}}
+  {{< gallery_item src="assets/img-0342-d179.jpg" caption="IMG_0342.jpeg" >}}
+  {{< gallery_item src="assets/img-0343-f407.jpg" caption="IMG_0343.jpeg" >}}
+{{< /gallery >}}
 
 ### 🇺🇦 RiverSoft - Delphi, C# developer
 

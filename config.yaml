@@ -14,14 +14,18 @@ menu:
       name: "🛠️ Projects"
       url: "/projects"
       weight: 2
+    - identifier: cv
+      name: "👨‍💼 CV"
+      url: "/cv"
+      weight: 3
     - identifier: blog
       name: "👨‍💻 Blog"
       url: "https://blog.husky-dev.me/"
-      weight: 2
+      weight: 4
     - identifier: ukraine
       name: "🇺🇦 Support Ukraine"
       url: "https://prytulafoundation.org/en/donation"
-      weight: 3
+      weight: 5
 
 params:
   defaultTheme: auto
@@ -39,12 +43,15 @@ params:
       - name: "🛠️ Projects"
         url: "/projects"
         weight: 2
+      - name: "👨‍💼 CV"
+        url: "/cv"
+        weight: 3
       - name: "👨‍💻 Blog"
         url: "https://blog.husky-dev.me/en/"
-        weight: 3
+        weight: 4
       - name: "🇺🇦 Support Ukraine"
         url: "https://prytulafoundation.org/en/donation"
-        weight: 4
+        weight: 5
 
   socialIcons:
     - name: "instagram"
@@ -81,12 +88,15 @@ languages:
           - name: "🛠️ Проекти"
             url: "/uk/projects"
             weight: 2
+          - name: "👨‍💼 Резюме"
+            url: "/uk/cv"
+            weight: 3
           - name: "👨‍💻 Блог"
             url: "https://blog.husky-dev.me/"
-            weight: 3
+            weight: 4
           - name: "🇺🇦 Допомогти Україні"
             url: "https://prytulafoundation.org/donation"
-            weight: 4
+            weight: 5
     menu:
       main:
         - identifier: github
@@ -97,11 +107,15 @@ languages:
           name: "🛠️ Проекти"
           url: "/uk/projects"
           weight: 2
+        - identifier: cv
+          name: "👨‍💼 Резюме"
+          url: "/uk/cv"
+          weight: 3
         - identifier: blog
           name: "👨‍💻 Блог"
           url: "https://blog.husky-dev.me/"
-          weight: 3
+          weight: 4
         - identifier: ukraine
           name: "🇺🇦 Допомогти Україні"
           url: "https://prytulafoundation.org/donation"
-          weight: 4
+          weight: 5
