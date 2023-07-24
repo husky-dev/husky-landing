@@ -222,11 +222,14 @@ Another challenge was updating the device's firmware. We needed to prevent any n
 
 Пізніше я створив спеціальний окремий додаток на Electron - Streamer, за допомогою якого можна було формувати ефір телебачення. Він складався з двох вікон. Перше вікно у вигляді календаря, в котрому можна досить просто додавати відео, прямі включення, рекламу і бачити, що зараз відтворюється в ефірі. У другому - вікно відтворення ефіру, котра потім захвачувалось комп’ютером і стрімилось в ефір.
 
-![image.png](assets/image-5cf7.png)
-
 Також, для економії, я створював власні пристрої. Наприклад пристрій для підсвічування активної камери. Коли режисер ефіру вмикає якусь камеру в ефір, над нею загоряється червоний світлодіод і журналісти знають куди їм зараз треба дивитись. На ринку такі пристрої коштують $200 - $300. Наші коштували $10.
 
-![Results:](assets/results-15f4.jpg "Results:") була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+**Results:** була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+
+{{< gallery >}}
+  {{< gallery_item src="assets/image-5cf7.png" caption="image.png" >}}
+  {{< gallery_item src="assets/img-4336-15f4.jpg" caption="IMG_4336.jpeg" >}}
+{{< /gallery >}}
 
 ### 🇺🇦 Visnyk Kremenchuka - iOS, PHP developer
 
@@ -275,6 +278,38 @@ RiverSoft is a company specializing in the development of automated parking syst
 After some time, we were tasked with creating an interface for parking machines, which customers would use to pay for parking and top up their cards. It was at this juncture that we decided to transition to Microsoft technologies, specifically C#, the .NET framework, and SQL Server. We developed the interface for the parking meters using WPF. This proved to be the correct decision, as the Microsoft stack facilitated quick system deployment. Thanks to WPF and XAML, we could adjust the interface's appearance with considerable flexibility.
 
 **Results:** after replacing people with an automated system, cash theft by employees was eliminated and the client's profits doubled.
+
+## Open source
+
+I have [a separate page](/projects) with a list of my projects. Please visit it for more information.
+
+### \#Kremen.Transport
+
+Map of public transport in Kremenchuk City, Ukraine.
+
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-transport-web), [Mobile](https://github.com/husky-dev/kremen-transport-mobile), [API](https://github.com/husky-dev/kremen-api)
+- **Apps:** [Web](https://transport.kremen.dev), [App Store](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756), [Google Play](https://play.google.com/store/apps/details?id=com.krementransport)
+
+An application for tracking buses, trolleybuses, and minibuses in Kremenchuk, Ukraine is available. You can use it to find out the arrival time of the transport at the bus stop and view only the required routes on the map.
+
+### \#Kremen.Equipment
+
+Map of municipal vehicles: snowplows, sprinklers, and tractors in Kremenchuk City, Ukraine.
+
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-equipment-web), [API](https://github.com/husky-dev/kremen-api)
+- **Apps:** [Web](https://equipment.kremen.dev)
+
+### md2snipp - Markdown to VSCode snippets CLI tool
+
+A tool for generating VSCode snippets from Markdown files.
+
+- **GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
+
+### chlog-cli - Changelog generator CLI tool
+
+CLI tool for managing `CHANGELOG.md` file based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
+
+- **GitHub**: [chlog-cli](https://github.com/husky-dev/chlog-cli)
 
 ## Awards
 

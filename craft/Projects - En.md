@@ -1,4 +1,4 @@
-# Projects (en)
+# Projects - En
 
 > Title: Projects
 
@@ -16,13 +16,8 @@ Here you will find my Open Source projects.
 
 Map of public transport in Kremenchuk City, Ukraine.
 
-- **GitHub:**
-   - **Web:** [kremen-transport-web](https://github.com/husky-dev/kremen-transport-web)
-   - **Mobile:** [kremen-transport-mobile](https://github.com/husky-dev/kremen-transport-mobile)
-   - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
-- **Web:** [https://transport.kremen.dev](https://transport.kremen.dev)
-- **iOS:** [Kremenchuk Public Transport](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756)
-- **Android:** [Kremenchuk Public Transport](https://play.google.com/store/apps/details?id=com.krementransport)
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-transport-web), [Mobile](https://github.com/husky-dev/kremen-transport-mobile), [API](https://github.com/husky-dev/kremen-api)
+- **Apps:** [Web](https://transport.kremen.dev), [App Store](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756), [Google Play](https://play.google.com/store/apps/details?id=com.krementransport)
 
 An application for tracking buses, trolleybuses, and minibuses in Kremenchuk, Ukraine is available. You can use it to find out the arrival time of the transport at the bus stop and view only the required routes on the map.
 
@@ -50,10 +45,8 @@ Technologies used:
 
 Map of municipal vehicles: snowplows, sprinklers, and tractors in Kremenchuk City, Ukraine.
 
-- **GitHub:**
-   - **Web:** [kremen-equipment-web](https://github.com/husky-dev/kremen-equipment-web)
-   - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
-- **Web:** [https://equipment.kremen.dev](https://equipment.kremen.dev)
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-equipment-web), [API](https://github.com/husky-dev/kremen-api)
+- **Apps:** [Web](https://equipment.kremen.dev)
 
 The idea for this project came up in the winter when I wanted to find out which areas are effectively cleaned of snow and which are not. The [Kremenchuk City Council website](https://kremen.gov.ua/) has a map of the movement of municipal equipment, but it doesn't allow you to view the history. Additionally, it would be nice to see a heat map of the equipment's work so you can visually see how your neighborhood was cleaned throughout the day. That's how this app came about.
 
@@ -69,7 +62,7 @@ It uses the same technology stack as [\#Kremen.Transport](#krementransport): Mon
 
 A tool for generating VSCode snippets from Markdown files.
 
-**GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
+- **GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
 
 Snippets are cool! They help save programmers time and effort. VSCode is also cool. However, it can be challenging to store, manage, and edit multiline snippets. While the JSON format is easy to use, reviewing and editing snippets with a lot of lines can become tedious. Dealing with JSON arrays, indents, and commas may discourage you from editing snippets. Moreover, over time, you may forget some snippets and have to review the JSON file to recall them. To address these issues, I propose storing snippets in a readable Markdown format and converting them to JSON.
 
@@ -96,6 +89,8 @@ The tool will look for a `.md` files at `.vscode/snippets`, will convert it to `
 ## chlog-cli - Changelog generator CLI tool
 
 CLI tool for managing `CHANGELOG.md` file based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
+
+- **GitHub**:  [chlog-cli](https://github.com/husky-dev/chlog-cli)
 
 Installation:
 

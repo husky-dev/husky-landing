@@ -1,4 +1,4 @@
-# Projects (uk)
+# Projects - Uk
 
 > Title: Проекти
 
@@ -16,13 +16,8 @@
 
 Карта руху громадського транспорту у місті Кременчук, Україна.
 
-- **GitHub:**
-   - **Web:** [kremen-transport-web](https://github.com/husky-dev/kremen-transport-web)
-   - **Mobile:** [kremen-transport-mobile](https://github.com/husky-dev/kremen-transport-mobile)
-   - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
-- **Web:** [https://transport.kremen.dev](https://transport.kremen.dev)
-- **iOS:** [Кременчук Транспорт](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756)
-- **Android:** [Кременчук Транспорт](https://play.google.com/store/apps/details?id=com.krementransport)
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-transport-web), [Mobile](https://github.com/husky-dev/kremen-transport-mobile), [API](https://github.com/husky-dev/kremen-api)
+- **Додатки:** [Web](https://transport.kremen.dev), [App Store](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756), [Google Play](https://play.google.com/store/apps/details?id=com.krementransport)
 
 Додаток для відстежування руху автобусів, тролейбусів і маршруток міста Кременчук. За допомогою нього можна дізнатись час прибуття транспорту на зупинку і бачити на мапі тільки потрібні маршрути.
 
@@ -50,10 +45,8 @@
 
 Карта руху комунальної техніки, снігоприбиральників, посипальників та тракторів у місті Кременчук, Україна.
 
-- **GitHub:**
-   - **Web:** [kremen-equipment-web](https://github.com/husky-dev/kremen-equipment-web)
-   - **API:** [kremen-api](https://github.com/husky-dev/kremen-api)
-- **Web:** [https://equipment.kremen.dev](https://equipment.kremen.dev)
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-equipment-web), [API](https://github.com/husky-dev/kremen-api)
+- **Додатки:** [Web](https://equipment.kremen.dev)
 
 Ідея цього проекту виникла взимку. Хотілось дізнатись які райони після сильних снігопадів снігоприбиральники чистять ефективно, а які не дуже. На сайті [Кременчуцької міської ради](https://kremen.gov.ua/) є карта переміщення комунальної техніки. Але в ній немає можливості переглядати історію. Та і взагалі, було б непогано бачити теплову карту роботи техніки, щоб можна було наглядно подивитись як за добу чистили твій район. Так і виник цей додаток.
 
@@ -67,7 +60,7 @@
 
 ## md2snipp - CLI утиліта для генерації VSCode сніпетів з Markdown файлів
 
-**GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
+- **GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
 
 Сніппети - це круто! Вони допомагають економити час і зусилля програмістів. VSCode - це теж круто. Однак зберігати, керувати та редагувати багаторядкові сніпети може бути складно. Хоча формат JSON простий у використанні, перегляд і редагування фрагментів з великою кількістю рядків може стати нудним. Робота з масивами JSON, відступами і комами може відштовхнути вас від редагування фрагментів. Більше того, з часом ви можете забути деякі сніпети, і вам доведеться переглядати JSON-файл, щоб їх згадати. Щоб вирішити ці проблеми, я пропоную зберігати сніпети у зручному для читання форматі Markdown і конвертувати їх у JSON.
 
@@ -94,6 +87,8 @@ npx md2snipp --root .vscode/snippets --output .vscode
 ## chlog-cli - CLI утиліта генератора журналу змін
 
 CLI-утиліта для керування файлом `CHANGELOG.md` на основі формату [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+- **GitHub**:  [chlog-cli](https://github.com/husky-dev/chlog-cli)
 
 Встановлення:
 

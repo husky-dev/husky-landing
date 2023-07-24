@@ -1,4 +1,4 @@
-# CV (uk)
+# CV - Uk
 
 > Title: Резюме
 
@@ -341,6 +341,34 @@ RiverSoft - компанія, котра займається створення
 Через деякий час виникла задача створити інтерфейс для паркоматів, через які клієнти оплачують парковку та поповнюють картки. В той час ми вирішили переключитись на технології Microsoft, а саме C#, .NET framework, SQL Server. Інтерфейс для паркоматів був створений за допомогою WPF. Це було правильне рішення. Стек Microsoft дозволив швидко розгорнути систему. Завдяки WPF і XAML можна було досить гнучко редагувати зовнішній вигляд інтейфейсу.
 
 **Результати:** після заміни людей на автоматизовану систему вдалось усунути крадіжки готівки працівниками і прибутки клієнта виросли в двічі.
+
+## Open source
+
+У мене є [окрема сторінка](/uk/projects) зі списком моїх проектів. Будь-ласка відвідайте її для більш детальної інформації.
+
+### \#Кремінь.Транспорт
+
+Карта руху громадського транспорту у місті Кременчук, Україна.
+
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-transport-web), [Mobile](https://github.com/husky-dev/kremen-transport-mobile), [API](https://github.com/husky-dev/kremen-api)
+- **Додатки:** [Web](https://transport.kremen.dev), [App Store](https://apps.apple.com/ua/app/kremenchuk-public-transport/id1600469756), [Google Play](https://play.google.com/store/apps/details?id=com.krementransport)
+
+### \#Кремінь.Техніка
+
+Карта руху комунальної техніки, снігоприбиральників, посипальників та тракторів у місті Кременчук, Україна.
+
+- **GitHub:** [Web](https://github.com/husky-dev/kremen-equipment-web), [API](https://github.com/husky-dev/kremen-api)
+- **Додатки:** [Web](https://equipment.kremen.dev)
+
+### md2snipp - CLI утиліта для генерації VSCode сніпетів з Markdown файлів
+
+- **GitHub:** [md2snipp](https://github.com/husky-dev/md2snipp)
+
+### chlog-cli - CLI утиліта генератора журналу змін
+
+CLI-утиліта для керування файлом `CHANGELOG.md` на основі формату [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+- **GitHub**:  [chlog-cli](https://github.com/husky-dev/chlog-cli)
 
 ## Нагороди
 
