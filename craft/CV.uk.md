@@ -52,6 +52,8 @@ CircleOf - додаток для організації допомоги люд�
 
 **Результати:** додатки в [App Store](https://apps.apple.com/ua/app/family-caregiving-circleof/id1298712207), [Google Play](https://play.google.com/store/apps/details?id=com.mywaysmobile) і [вебсайт](https://circleof.com/).
 
+----
+
 ![circleof-ios-5.5-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/161F8B5B-1DCE-4F43-AC2B-E4F36471543B_2/WOAsAzfCS4c1f0EbQYkeoyenvTTidNildEVzaSBVADkz/circleof-ios-5.5-000.png)
 
 ![circleof-ios-5.5-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/2EDBB2BE-32DB-4B8D-9B3D-C971E95E15FD_2/VLrfEOfoCRXj2SKV5WFlDjihfnueTYBHHJ58fQsnuf0z/circleof-ios-5.5-001.png)
@@ -74,6 +76,8 @@ CircleOf - додаток для організації допомоги люд�
 
 ![circleof-web-003.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/AD9BE731-8919-46C6-9D74-D5BA3FB736D6_2/1WWR1ccJ53mRRjkrPe8MIzBxcE4tGaQqFBrNWHdClz4z/circleof-web-003.png)
 
+----
+
 ### 🇺🇸 Watery - Full-stack developer
 
 **Період:** червень 2021 - серпень 2022 (1 рік, 2 місяці)
@@ -90,11 +94,15 @@ Front-end розроблений на React. Back-end - NodeJS. Для отри�
 
 **Результати:** додаток запущений в продакшен і виконує свої функції.
 
+----
+
 ![watery-web-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/303BB80C-531F-4AF3-AD11-2C350B608350_2/JqansgZzR1mwyipVmxOeOnAxRuz24KSCICyPyEuX1icz/watery-web-000.png)
 
 ![watery-web-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/FAB2EBFF-51D9-44AF-81C3-49DA9C8FB788_2/PYC8mnyiPAgKHCQGEiyknbyI5rLnX2zjuwNAM3SExeEz/watery-web-001.png)
 
 ![watery-web-002.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/15732AED-6E94-4395-8D09-BAF00C76D960_2/N7zMHkfTJNeYBytKHXuffvlyjgHeTkBy2GFxRLEiXNoz/watery-web-002.png)
+
+----
 
 ### 🇺🇸 Iris - Full-stack developer
 
@@ -126,6 +134,8 @@ Flow - додаток, за допомогою якого можна забро�
 
 **Результати:** застосунок був опублікований в [App Store](https://apps.apple.com/app/1560246719) і [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), проект було успішно запущений.
 
+----
+
 ![ios-5.5-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/1FE64E64-D82A-4CAF-BBD6-F4BF27BC6732_2/WP7j2ydQGUTkt58Y8DnCvTSQpDA27SPatTLh8yMn1h0z/ios-5.5-000.png)
 
 ![ios-5.5-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/5F6D5ED8-F2F4-4CF3-AB28-059D8A31F19D_2/lH2clmWVTY0UtrVediqjjeKzxoMNTOYCxzbiPqkqTZMz/ios-5.5-001.png)
@@ -139,6 +149,8 @@ Flow - додаток, за допомогою якого можна забро�
 ![ios-5.5-005.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/4A0F2E7F-1374-4EAC-B8AF-7EF9D27B8BBC_2/VEVO0XmAl4XtTPTLaAPzAQWygw0aplIUwjxhVSOxOI0z/ios-5.5-005.png)
 
 ![ios-5.5-006.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/776AD70D-582E-4881-BFEA-E8AFBEAB5513_2/RGmiUAdxP8mTppLiHk2lEzBbywoUSTNtWtD3E9ELk1Mz/ios-5.5-006.png)
+
+----
 
 ### 🇺🇸 Captains Club  - React Native developer
 
@@ -156,11 +168,15 @@ Captains Club - закрита соціальна мережа для гравц
 
 **Результати:** додатки в [App Store](https://apps.apple.com/app/1502096463) і [Google Play](https://play.google.com/store/apps/details?id=club.captains.mobile&hl=en&gl=US).
 
+----
+
 ![ios-6.5-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/B54F3AF7-11CC-493C-A5DA-76949F619097_2/0f3YC85TjIRVAzLV8JipyK7TWT3UnxteYU66L61xFN4z/ios-6.5-000.png)
 
 ![ios-6.5-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/F650B6EC-8A89-4BEA-A81B-91C68CD95F7B_2/FptJALvl7PVfczZMfu3IfPsrthfgcdlbaAwNm2JtjpMz/ios-6.5-001.png)
 
 ![ios-6.5-002.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/A53E8F0B-DC1B-40FD-88B3-7B86FBBED431_2/tL5sO6qOJyfLz4NrhNtq6NgWQ7L8yveSHoHltV03hqIz/ios-6.5-002.png)
+
+----
 
 ### 🇺🇸 Nevados - front-end developer
 
@@ -180,6 +196,8 @@ Nevados - система для створення і керування сон�
 
 **Результати:** система запущена в експлуатацію, мобільний додаток опублікований в Google Play.
 
+----
+
 ![image-20190902-153755.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/33BCE3D1-86AD-4368-A91D-33FAF1E2F8DD_2/iyWsBSmeR9tRUQb5TqdeJEdD5GFZxuD6vbLE2eOPrV8z/image-20190902-153755.png)
 
 ![image-20191002-134045.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/BD5D59F7-0845-466B-B573-62F928808BA2_2/qlQIJ7c2ZlGc2y9g5Kte2RUWbIn0zYMBzw6rm0yOLhgz/image-20191002-134045.png)
@@ -189,6 +207,8 @@ Nevados - система для створення і керування сон�
 ![001.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/D88FE1BD-50C5-4EDE-BB3F-FC4E1FD2E8B3_2/05xLus2g9dxi16jxyHFgdYV0Q05mR2XsfI4nY0mFtyMz/001.jpeg)
 
 ![002.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/C1462566-736C-42EB-BFC7-7142E6A89893_2/p7HgH5ZfBHes73y3mxvHVqr7ElF7yXth2TcfW0okPS0z/002.jpeg)
+
+----
 
 ### 🇺🇸 Pando - Software engineer
 
@@ -208,6 +228,8 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 **Результати:** проект було доведено до готового продукту і успішно запущено.
 
+----
+
 ![000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/B9C9C62A-F1D1-48EF-A90F-E5C5124BC62B_2/xUUuJrWrCrx9NtEiiETpbVPuJJSoD5y8mVj3hvqM5r4z/000.png)
 
 ![001.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/7F47B78A-70F2-40F0-B18F-E318EA52689C_2/qMO73pZLf8x1JQ9yqzh7bKrAkTqZUFHwZR24hUU6Mecz/001.jpeg)
@@ -219,6 +241,8 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 ![005.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/B43FBC78-E5C0-4E29-B56D-EF5203C143F7_2/9A8Uf2EKWrPnIg96pJ5aPGagQDaLMxWxLz9iNbKk7p4z/005.png)
 
 ![006.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/40FB61C7-5029-485F-8B2B-E83B0CCFE015_2/x6vBR7WC5yR3bwu7TlhPjHSDRQpdhpulx20iQihgpFgz/006.png)
+
+----
 
 ### 🇺🇦 Hromadske.Kremenchuk - CTO
 
@@ -242,13 +266,17 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 Пізніше я створив спеціальний окремий додаток на Electron - Streamer, за допомогою якого можна було формувати ефір телебачення. Він складався з двох вікон. Перше вікно у вигляді календаря, в котрому можна досить просто додавати відео, прямі включення, рекламу і бачити, що зараз відтворюється в ефірі. У другому - вікно відтворення ефіру, котра потім захвачувалось комп’ютером і стрімилось в ефір.
 
-![image.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/16146C9E-3A4C-46EB-9AC6-F55B92FA188E_2/yWgHP6rZaogp3QMWaAyp7fswPnVExNxcRTyUaxKrqFAz/image.png)
-
 Також, для економії, я створював власні пристрої. Наприклад пристрій для підсвічування активної камери. Коли режисер ефіру вмикає якусь камеру в ефір, над нею загоряється червоний світлодіод і журналісти знають куди їм зараз треба дивитись. На ринку такі пристрої коштують $200 - $300. Наші коштували $10.
+
+**Результати:** була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+
+----
+
+![image.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/16146C9E-3A4C-46EB-9AC6-F55B92FA188E_2/yWgHP6rZaogp3QMWaAyp7fswPnVExNxcRTyUaxKrqFAz/image.png)
 
 ![IMG_4336.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/CB983319-8E4B-432C-8ED2-F3D0A2B5024D_2/9dCCXoxW4sSgvHwiOvZc6adbTX0Ca0uXA4G5b2r1MlQz/IMG_4336.jpeg)
 
-**Результати:** була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+----
 
 ### 🇺🇦 Visnyk Kremenchuka - iOS, PHP developer
 
@@ -265,6 +293,8 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 По друге, редакція сайту вирішила створити iOS додаток. Головними його функціями було: читання новин, можливість залишити коментар, дивитись фото, відео, зберігати вподобані матеріали. Для цього я написав додаток на Objective-C, і інтегрував його з існуючим сайтом за допомогою API Wordpress і власними плагінами.
 
 **Результати:** швидкість завантаження сайту зросло в 4 рази. Додаток був опублікований в App Store та мав близько тисячі користувачів.
+
+----
 
 ![IMG_0334.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/517DCF0E-2AF1-44FC-AC3D-428AE30AD19B_2/O3JUKgSlMys28TxOan8RNCxtshT9nsOvoYD397lhogcz/IMG_0334.jpeg)
 
@@ -295,6 +325,8 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 ![IMG_0342.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/1043C0F4-1345-4CCA-A8A6-4497A9F88E5A_2/Xuly5TPlMfE5jnJ4vxIUapkVAnjQ4xwnmfGfwGaLj2Az/IMG_0342.jpeg)
 
 ![IMG_0343.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/A9AFB916-1FA2-4575-AAE2-08FB62B15C26_2/KItwgxt5LgGs6zs1uy3EDJxKxlVpWUYOc9kBMZxBesUz/IMG_0343.jpeg)
+
+----
 
 ### 🇺🇦 RiverSoft - Delphi, C# developer
 
