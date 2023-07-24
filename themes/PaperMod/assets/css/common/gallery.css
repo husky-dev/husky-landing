@@ -1,0 +1,17 @@
+.post-content .pswp-gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: start;
+}
+
+.post-content .pswp-gallery figure {
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-bottom: 8px;
+}
+
+.post-content .pswp-gallery figure img {
+  margin: 0;
+  border-radius: 4px;
+}
