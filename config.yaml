@@ -47,7 +47,7 @@ params:
         url: "/cv"
         weight: 3
       - name: "👨‍💻 Blog"
-        url: "https://blog.husky-dev.me/en/"
+        url: "https://blog.husky-dev.me/"
         weight: 4
       - name: "🇺🇦 Support Ukraine"
         url: "https://prytulafoundation.org/en/donation"
