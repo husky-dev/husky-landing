@@ -223,7 +223,7 @@ Another challenge was updating the device's firmware. We needed to prevent any n
 
 ### 🇺🇦 Hromadske.Kremenchuk - CTO
 
-**Period:** April 2014 -  May 2017 (3 years, 1 month)
+**Period:** February 2014 -  May 2017 (3 years, 4 months)
 
 **Technologies:** React, Angular, NodeJS, MongoDB, Redis, TypeScript, Electron, C++, PHP, WordPress, Nginx, RTMP.
 

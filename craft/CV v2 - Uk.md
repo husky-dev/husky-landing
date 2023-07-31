@@ -36,7 +36,7 @@
 
 ### 🇺🇸 CircleOf - Full-stack developer
 
-**Період:** липень 2017 - зараз (6 років)
+**Період:** липень 2017 - зараз (6 років, 1 місяць)
 
 **Технології:** React, React Native, NodeJS, TypeScript, MySQL, Gatsby, Tailwind CSS
 
@@ -82,7 +82,7 @@ CircleOf - додаток для організації допомоги люд�
 
 **Період:** червень 2021 - серпень 2022 (1 рік, 2 місяці)
 
-**Технології:** React, TypeScript, NodeJS, PostgreSQL, AWS Lambda, AWS EC2, AWS S3, AWS Route53, AWS CloudFront, AWS RDS, AWS SNS
+**Технології:** React, TypeScript, NodeJS, PostgreSQL, MongoDB, AWS Lambda, AWS EC2, AWS S3, AWS Route53, AWS CloudFront, AWS RDS, AWS SNS
 
 **Країна:** США
 
@@ -221,7 +221,7 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 ### 🇺🇦 Hromadske.Kremenchuk - CTO
 
-**Період:** квітень 2014 - травень 2017 (3 роки, 1 місяць)
+**Період:** лютий 2014 - травень 2017 (3 роки, 4 місяців)
 
 **Технології:** React, Angular, NodeJS, MongoDB, Redis, TypeScript, Electron, C++, PHP, WordPress, Nginx, RTMP.
 
