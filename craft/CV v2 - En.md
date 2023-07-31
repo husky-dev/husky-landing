@@ -108,13 +108,13 @@ The front-end was developed using React, while NodeJS was used for the back end.
 
 ### 🇺🇸 BrandedAF - Full-stack developer
 
-**Period:** лютий 2020 - червень 2021 (1 year, 4 months)
+**Period:** February 2020 - June 2021 (1 year, 4 months)
 
-**Thechnologies:** React, React Native, Expo, JavaScript, TypeScript, NodeJS, PostgreSQL, AWS Lambda, AWS S3, AWS Cognito, AWS EC2
+**Thechnologies:** React, React Native, Expo, JavaScript, TypeScript, NodeJS, PostgreSQL, MongoDB, AWS Lambda, AWS S3, AWS Cognito, AWS EC2
 
 **Country:** United States
 
-**Links:** [Вебсайт](https://brandedaf.com/)
+**Links:** [Website](https://brandedaf.com/)
 
 BrandedAF is a software development studio specializing in assisting startups to create products from scratch. It offer a comprehensive range of services including design, development, management, and marketing.
 
