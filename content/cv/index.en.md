@@ -85,35 +85,30 @@ The front-end was developed using React, while NodeJS was used for the back end.
   {{< gallery_item src="assets/watery-web-002-52aa.png" caption="watery-web-002.png" >}}
 {{< /gallery >}}
 
-### 🇺🇸 Iris - Full-stack developer
+### 🇺🇸 BrandedAF - Full-stack developer
 
-**Period:** Februrary 2021 - June 2021 (4 months)
+**Period:** лютий 2020 - червень 2021 (1 year, 4 months)
 
-**Thechnologies:** React, TypeScript, NodeJS, PostgreSQL, AWS Lambda, AWS S3, AWS Cognito, AWS EC2
+**Thechnologies:** React, React Native, Expo, JavaScript, TypeScript, NodeJS, PostgreSQL, AWS Lambda, AWS S3, AWS Cognito, AWS EC2
 
 **Country:** United States
 
-Iris is a new system designed for organizing large online events. The idea originated from the company that organized offline events. With mass gatherings banned during the pandemic, the company decided to transition to an online platform.
+**Links:** [Вебсайт](https://brandedaf.com/)
 
-The system is composed of two parts. The first is designed for event management, which includes tasks such as video and sound editing, schedule modification, and so on. The second part caters to visitors, facilitating the creation of a landing page for the event, ticket sales, and the publishing of schedules.
+BrandedAF is a software development studio specializing in assisting startups to create products from scratch. It offer a comprehensive range of services including design, development, management, and marketing.
 
-Initially, I was brought on board as a front-end developer using React. Later, I assumed the roles of a back-end developer and system architect. The complexity of the project lay in the volume of required functionality and data architecture. This initially posed challenges for the designers, as they struggled to envision a clear product concept. I assisted in understanding the product's functionality, prioritizing features, and creating wireframes for the designers.
+Initially, I embarked on my journey as a front-end developer, later transitioning to a more encompassing role as a full-stack developer and project architect. My responsibilities encapsulated the following:
 
-### 🇬🇧 Flow - React Native developer
+- Developing new application functionalities and addressing bugs.
+- Scrutinizing new product designs and offering insightful suggestions.
+- Formulating development tasks.
+- Spearheading the development of architecture for new projects.
 
-**Period:** June 2021 - January 2022 (8 months)
+I have had the opportunity to work on the following projects:
 
-**Thechnologies:** React Native, JavaScript, TypeScript, Expo
-
-**Country:** United Kingdom
-
-**Links:** [App Store](https://apps.apple.com/app/1560246719), [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), [Website](https://www.flowplaces.co)
-
-Flow is an application that facilitates booking spaces in coworking locations or offices in London. The system is fully automated; users simply select a location, book for a specific time or day, and scan the QR code at reception.
-
-When I joined the startup, it was in its early stages with the application existing only as a prototype. My task was to transform this prototype into a full-fledged application and launch it on both the App Store and Google Play. I rewrote the application in TypeScript from JavaScript, altered the design to align with the brand book, and incorporated the ability to process payments through Stripe.
-
-**Results:** the app was published in the [App Store](https://apps.apple.com/app/1560246719) and [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), and the project was successfully launched.
+- 🇬🇧 **Flow** - an mobile application that facilitates booking spaces in coworking locations or offices in London ([App Store](https://apps.apple.com/app/1560246719), [Google Play](https://play.google.com/store/apps/details?id=co.flowplaces), [Website](https://www.flowplaces.co)).
+- 🇺🇸 **Captains Club** - an exclusive social network for golfers. It enables users to track their friends' progress, organize and invite friends to events, and engage in discussions through messages and comments ([App Store](https://apps.apple.com/app/1502096463), [Google Play](https://play.google.com/store/apps/details?id=club.captains.mobile&hl=en&gl=US)).
+- 🇺🇸 **Iris** - a new system designed for organizing large online events.
 
 {{< gallery >}}
   {{< gallery_item src="assets/ios-5-5-000-496a.png" caption="ios-5.5-000.png" >}}
@@ -123,25 +118,6 @@ When I joined the startup, it was in its early stages with the application exist
   {{< gallery_item src="assets/ios-5-5-004-8cb1.png" caption="ios-5.5-004.png" >}}
   {{< gallery_item src="assets/ios-5-5-005-f578.png" caption="ios-5.5-005.png" >}}
   {{< gallery_item src="assets/ios-5-5-006-3f67.png" caption="ios-5.5-006.png" >}}
-{{< /gallery >}}
-
-### 🇺🇸 Captains Club - React Native developer
-
-**Period:** Februrary 2020 - December 2021 (1 year, 11 months)
-
-**Thechnologies:** React, React Native, TypeScript, NodeJS
-
-**Country:** United States
-
-**Links:** [App Store](https://apps.apple.com/app/1502096463), [Google Play](https://play.google.com/store/apps/details?id=club.captains.mobile&hl=en&gl=US)**,** [Website](http://app.captains.club/)
-
-Captains Club is an exclusive social network for golfers. It enables users to track their friends' progress, organize and invite friends to events, and engage in discussions through messages and comments.
-
-When I joined the project, it only had a web application, which was written in React and JavaScript. My task was to develop iOS and Android applications using React Native, in accordance with the project's brand book.
-
-**Results:** apps in the [App Store](https://apps.apple.com/app/1502096463) and [Google Play](https://play.google.com/store/apps/details?id=club.captains.mobile&hl=en&gl=US).
-
-{{< gallery >}}
   {{< gallery_item src="assets/ios-6-5-000-e6d3.png" caption="ios-6.5-000.png" >}}
   {{< gallery_item src="assets/ios-6-5-001-2a9e.png" caption="ios-6.5-001.png" >}}
   {{< gallery_item src="assets/ios-6-5-002-109a.png" caption="ios-6.5-002.png" >}}
@@ -208,23 +184,23 @@ Another challenge was updating the device's firmware. We needed to prevent any n
 
 **Country:** Ukraine
 
-Громадське Телебачення - громадська організація, яка виникла у кінці 2013 і основною ціллю якої було правдиве висвітлення подій з урахуванням всіх журналістських стандартів. Саме для цього був обраний формат “громадської організації”, щоб мати змогу фінансуватись за рахунок донатів та грантів. Особливої популярності телебачення набуло під час Революції Гідності в Україні в 2014 році. Спочатку, організація була заснована в Києві, а потім було прийняте рішення створити незалежні регіональні відділення, в тому числі і в Кременчуці.
+Hromadske TV is a non-governmental organization established in late 2013, primarily aiming to deliver truthful event coverage in adherence to rigorous journalistic standards. The entity was shaped as a "public organization" to enable funding through donations and grants. The television platform gained significant popularity during the Revolution of Dignity in Ukraine in 2014. The organization was initially established in Kyiv, before making the strategic decision to create independent regional branches, including one in Kremenchuk.
 
-Я був запрошений у якості СТО щоб створити телестудію та всю інфраструктуру з нуля. У нас був дуже маленький бюджет. Зазвичай телестудію будують на основі спеціалізованих пристроїв. Наприклад, перемикання камер, запуск відео в ефір, бігуча стрічка, зідзвони в Skype, видача відеопотоку в Інтернет - для цього всього використовується окремі пристрої. Але у нас не було для цього бюджету. Тому було прийнято рішення по максимуму все замінити програмними рішеннями. В результаті перший варіант студії прямого мовлення складавася всього лише з одного комп’ютера з картою захоплення відеопотоку, камер і звукового мікшеру.
+I was brought on board with the mission of constructing a TV studio and the entire supporting infrastructure from the ground up, all on a tight budget. Ordinarily, a TV studio would be built using specialized equipment such as camera switchers, on-air video launchers, ticker tapes, Skype call handlers, and separate devices for internet video streaming. However, due to budget constraints, we had to find alternative solutions. Therefore, we opted to replace as much of the traditional hardware as possible with software solutions. Consequently, the initial version of the live broadcasting studio was composed of just a single computer equipped with a video stream capture card, along with cameras and a sound
 
-Я створив нашу власну веб-систему менеджменту телестудії, до функцій якої входило:
+I devised our unique web-based TV studio management system, which encompassed the following features:
 
-- Генерація титрів для ефіру з нашим брендовим дизайном і базою людей, котрі відвідували наш ефір.
-- Бігуча стрічка, котра постійно прокручувалась в ефірі. Журналісти мали змогу віддалено її редагувати, а вона автоматично оновлювалась через WebSockets.
-- Публікатор новин в соціальні мережі. Журналісти мали змогу підготувати новину і за допомогою одного кліка запостити її у всі соціальні мережі де було присутнє Громадське Телебачення.
+- Title generation for broadcasts, adhering to our brand design and including a database of individuals who appeared on our broadcast.
+- A continuous, on-air ticker tape that journalists could edit remotely. This ticker tape was automatically updated in real-time via WebSockets.
+- A news publisher for social networks. This tool enabled journalists to draft a news item and simultaneously disseminate it across all social platforms where Hromadske TV had a presence, all with a single click.
 
-Серверна частина додатку була написана на NodeJS з використанням фреймворку Sails.js. Front-end написаний на AngularJS.
+The server side of our application was developed using NodeJS, harnessing the Sails.js framework, while the front-end was crafted using AngularJS.
 
-Пізніше я створив спеціальний окремий додаток на Electron - Streamer, за допомогою якого можна було формувати ефір телебачення. Він складався з двох вікон. Перше вікно у вигляді календаря, в котрому можна досить просто додавати відео, прямі включення, рекламу і бачити, що зараз відтворюється в ефірі. У другому - вікно відтворення ефіру, котра потім захвачувалось комп’ютером і стрімилось в ефір.
+Subsequently, I developed a distinct standalone application on Electron - Streamer. This application served to generate television broadcasts and was split into two windows. The first window was a calendar facilitating easy addition of videos, live broadcasts, advertisements, and provided visibility into what was currently playing on-air. The second window served as a broadcast playback window, which was captured by the computer and subsequently broadcasted on-air.
 
-Також, для економії, я створював власні пристрої. Наприклад пристрій для підсвічування активної камери. Коли режисер ефіру вмикає якусь камеру в ефір, над нею загоряється червоний світлодіод і журналісти знають куди їм зараз треба дивитись. На ринку такі пристрої коштують $200 - $300. Наші коштували $10.
+To further cut costs, I fabricated some of our own devices. For instance, I created a device to illuminate the active camera. When the on-air director engages a camera for broadcast, a red LED light above it is activated, informing the journalists where they should direct their attention. Comparable devices in the market range from $200-$300. Our custom-built solution cost merely $10.
 
-**Results:** була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
+**Results:** A fully functional TV studio was assembled from scratch, significantly under budget. I managed the setup of the studio and established the processes and procedures for the technical team. Furthermore, a TV website and a live broadcast management system were successfully implemented.
 
 {{< gallery >}}
   {{< gallery_item src="assets/image-5cf7.png" caption="image.png" >}}
