@@ -251,6 +251,12 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 
 ![IMG_4336.jpeg](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9BCA9C62-9984-4B72-92FB-3A0B140A8687/CB983319-8E4B-432C-8ED2-F3D0A2B5024D_2/9dCCXoxW4sSgvHwiOvZc6adbTX0Ca0uXA4G5b2r1MlQz/IMG_4336.jpeg)
 
+![hromadske-app-000.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9DC42A1D-1B56-410F-9C2F-7A900CB4FADF/7D4ADC1D-3B44-4D9F-A7CD-BA09FE99027A_2/ovLPw1IubkJu4SpLg5CpBM2hRkSLeMLqZSrcAFB5FX8z/hromadske-app-000.png)
+
+![hromadske-app-001.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9DC42A1D-1B56-410F-9C2F-7A900CB4FADF/F21145AB-6FDB-4A9D-9BFA-BC233EB398A1_2/cJLS31bSR0WDFL931AEpvQUBHe7TztoClVx90ExHuo8z/hromadske-app-001.png)
+
+![hromadske-app-002.png](https://res.craft.do/user/full/b5a256f3-51ff-c8e5-10fe-9343b6a0451d/doc/9DC42A1D-1B56-410F-9C2F-7A900CB4FADF/084D481C-F4C8-4E89-A1F7-9CD26268A289_2/yY2UldecUwvwjf9LqdnNI6jbv08trTmfI1kysJEG5QMz/hromadske-app-002.png)
+
 ----
 
 ### 🇺🇦 Visnyk Kremenchuka - iOS, PHP developer
