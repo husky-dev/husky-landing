@@ -41,11 +41,11 @@ Junior specialist, Computer Science
 
 **Links:** [App Store](https://apps.apple.com/app/1298712207), [Google Play](https://play.google.com/store/apps/details?id=com.mywaysmobile), [Website](https://circleof.com/).
 
-CircleOf is an application designed to organize assistance for individuals with health problems. It facilitates the creation of a support group comprised of family, friends, and colleagues. Once this group is established, you can add various events to the calendar, offer help, and communicate with group members. Companies can also participate in the partnership program to offer aid to their employees. Additionally, the project includes a website that publishes various tips for caring for those in need.
+CircleOf is an application specifically engineered to orchestrate aid for individuals grappling with health issues. This tool simplifies the process of forming a support group comprising family members, friends, and colleagues. Once such a group is established, it allows users to schedule various events on a shared calendar, extend offers of assistance, and communicate seamlessly with other group members. Additionally, corporations can engage in the partnership program to offer support to their employees. As part of the broader project, it also includes a website that provides a wealth of tips for caring for those in need.
 
-In the early stages of the project, I was responsible for the mobile application, which was developed using React Native. As the project evolved, all the code was eventually rewritten in TypeScript.
+In the project's infancy, I was tasked with the development of the mobile application, which was initially created using React Native. As the project matured, we transitioned the entire codebase to TypeScript to enhance scalability and maintainability.
 
-Subsequently, a website was developed using React and Gatsby. All content on the site is managed using GatherContent.
+Following this, we built a website utilizing the React framework and Gatsby for static site generation. All site content is meticulously managed using the content management system, GatherContent.
 
 **Results:** apps in the [App Store](https://apps.apple.com/ua/app/family-caregiving-circleof/id1298712207), [Google Play](https://play.google.com/store/apps/details?id=com.mywaysmobile) and a [website](https://circleof.com/).
 
@@ -63,9 +63,9 @@ Subsequently, a website was developed using React and Gatsby. All content on the
   {{< gallery_item src="assets/circleof-web-003-4416.png" caption="circleof-web-003.png" >}}
 {{< /gallery >}}
 
-### 🇺🇸 Watery - Full-stack developer
+### 🇺🇸 Watery - Full Stack developer
 
-**Period:** June 2021 - August 2022 (1 year, 2 months)
+**Period:** June 2021 - August 2022 (1 year, 3 months)
 
 **Thechnologies:** React, TypeScript, NodeJS, PostgreSQL, AWS Lambda, AWS EC2, AWS S3, AWS Route53, AWS CloudFront, AWS RDS, AWS SNS
 
@@ -73,9 +73,9 @@ Subsequently, a website was developed using React and Gatsby. All content on the
 
 **Links:** [Website](https://watery.com/)
 
-Watery is a website specializing in real estate located near water. With its search function, you can find listings in a selected city that meet specific criteria, such as the number of bedrooms and bathrooms, among others.
+Watery is a dedicated real estate website focusing on properties situated near water bodies. The site features a comprehensive search function, allowing users to find listings in a specified city based on certain criteria, including the number of bedrooms and bathrooms, among other specifics.
 
-The front-end was developed using React, while NodeJS was used for the back end. To generate the list of offers, data from the provider is utilized, which is imported every night. The application actively uses various AWS services, including EC2, Lambda, S3, Route53, CloudFront, RDS, and SNS.
+The website's front-end development was carried out using React, while NodeJS was employed for the back-end. The listings are populated by leveraging data from the provider, which is imported on a nightly basis. The application actively harnesses various AWS services, encompassing EC2, Lambda, S3, Route53, CloudFront, RDS, and SNS, to deliver a seamless and efficient user experience.
 
 **Results:** the application is launched in production.
 
@@ -85,15 +85,15 @@ The front-end was developed using React, while NodeJS was used for the back end.
   {{< gallery_item src="assets/watery-web-002-52aa.png" caption="watery-web-002.png" >}}
 {{< /gallery >}}
 
-### 🇺🇸 BrandedAF - Full-stack developer
+### 🇺🇸 BrandedAF - Full Stack developer
 
-**Period:** лютий 2020 - червень 2021 (1 year, 4 months)
+**Period:** February 2020 - June 2021 (1 year, 5 months)
 
-**Thechnologies:** React, React Native, Expo, JavaScript, TypeScript, NodeJS, PostgreSQL, AWS Lambda, AWS S3, AWS Cognito, AWS EC2
+**Thechnologies:** React, React Native, Expo, JavaScript, TypeScript, NodeJS, PostgreSQL, MongoDB, AWS Lambda, AWS S3, AWS Cognito, AWS EC2
 
 **Country:** United States
 
-**Links:** [Вебсайт](https://brandedaf.com/)
+**Links:** [Website](https://brandedaf.com/)
 
 BrandedAF is a software development studio specializing in assisting startups to create products from scratch. It offer a comprehensive range of services including design, development, management, and marketing.
 
@@ -123,7 +123,7 @@ I have had the opportunity to work on the following projects:
   {{< gallery_item src="assets/ios-6-5-002-109a.png" caption="ios-6.5-002.png" >}}
 {{< /gallery >}}
 
-### 🇺🇸 Nevados - front-end developer
+### 🇺🇸 Nevados - Frontend developer
 
 **Period:** Feburary 2019 - December 2019 (11 months)
 
@@ -159,11 +159,11 @@ Additionally, I created a mobile application in React Native. This app allows op
 
 **Links:** [Website](http://getpando.com/)
 
-Pando is a device, based on Raspberry Pi, that can be connected to a screen to customize the content displayed on it through a web panel. The device also includes a WiFi module that scans the surrounding environment and analyzes the number of active devices in its vicinity. Its primary applications are in shops and shopping centers.
+Pando is a device built on Raspberry Pi that enables users to customize the content displayed on a connected screen via a web panel. Equipped with a WiFi module, the device scans its surroundings and analyzes the quantity of active devices in its proximity. Pando's primary usage is in retail spaces like shops and shopping centers.
 
-I was responsible for writing the code to control the device and creating a web-based control panel using AngularJS. The Raspberry Pi, being relatively underpowered for media operations, posed some challenges. Playing content in a browser led to video glitches and freezes, necessitating optimization of the Raspbian operating system for improved media playback.
+My responsibility in this project involved writing the device control code and developing a web-based control panel using AngularJS. However, the Raspberry Pi, with its relatively limited power for media operations, presented certain challenges. Attempting to play content in a browser resulted in video glitches and freezes, which called for optimizing the Raspbian operating system to enhance media playback.
 
-Another challenge was updating the device's firmware. We needed to prevent any new updates from breaking the device and rendering it inoperative, as this would require us to manually download the new firmware onto all customer devices. As a result, special attention was devoted to the update process. We devised a system that downloads and runs new firmware, but reverts to the previous version in case of critical errors.
+Updating the device's firmware also posed a challenge. It was crucial to ensure that new updates did not compromise the functionality of the device, as this would necessitate the manual installation of new firmware on all customer devices. Consequently, we paid special attention to the update process. We established a system that downloads and runs new firmware but automatically reverts to the prior version in the event of critical errors.
 
 **Results:** the project was finalized and successfully launched.
 
@@ -176,35 +176,38 @@ Another challenge was updating the device's firmware. We needed to prevent any n
   {{< gallery_item src="assets/006-f71d.png" caption="006.png" >}}
 {{< /gallery >}}
 
-### 🇺🇦 Hromadske.Kremenchuk - CTO
+### 🇺🇦 Hromadske.Kremenchuk - Chief Technology Officer
 
-**Period:** April 2014 - May 2017 (3 years, 1 month)
+**Period:** February 2014 - May 2017 (3 years, 4 months)
 
 **Technologies:** React, Angular, NodeJS, MongoDB, Redis, TypeScript, Electron, C++, PHP, WordPress, Nginx, RTMP.
 
 **Country:** Ukraine
 
-Hromadske TV is a non-governmental organization established in late 2013, primarily aiming to deliver truthful event coverage in adherence to rigorous journalistic standards. The entity was shaped as a "public organization" to enable funding through donations and grants. The television platform gained significant popularity during the Revolution of Dignity in Ukraine in 2014. The organization was initially established in Kyiv, before making the strategic decision to create independent regional branches, including one in Kremenchuk.
+Hromadske TV, a non-governmental organization, was established in late 2013 with a clear mission: to provide accurate and unbiased event coverage, adhering to the highest journalistic standards. The organization took the form of a "public entity" to facilitate funding through donations and grants. It gained substantial traction during the Revolution of Dignity in Ukraine in 2014. The initial foundation was laid in Kyiv, which later expanded strategically to independent regional branches, one of which is in Kremenchuk.
 
-I was brought on board with the mission of constructing a TV studio and the entire supporting infrastructure from the ground up, all on a tight budget. Ordinarily, a TV studio would be built using specialized equipment such as camera switchers, on-air video launchers, ticker tapes, Skype call handlers, and separate devices for internet video streaming. However, due to budget constraints, we had to find alternative solutions. Therefore, we opted to replace as much of the traditional hardware as possible with software solutions. Consequently, the initial version of the live broadcasting studio was composed of just a single computer equipped with a video stream capture card, along with cameras and a sound
+I was brought onboard with the challenge of building a TV studio and its entire associated infrastructure from scratch, on a highly constrained budget. Typically, a TV studio is constructed using specialized equipment such as camera switchers, on-air video launchers, ticker tapes, Skype call handlers, and distinct devices for internet video streaming. However, given our budget limitations, we had to seek innovative alternatives. We decided to substitute traditional hardware with software solutions as much as possible. As a result, the preliminary version of the live broadcasting studio was comprised of merely a single computer equipped with a video stream capture card, supplemented with cameras and a sound mixer.
 
-I devised our unique web-based TV studio management system, which encompassed the following features:
+I developed our distinct web-based TV studio management system, which included:
 
-- Title generation for broadcasts, adhering to our brand design and including a database of individuals who appeared on our broadcast.
-- A continuous, on-air ticker tape that journalists could edit remotely. This ticker tape was automatically updated in real-time via WebSockets.
-- A news publisher for social networks. This tool enabled journalists to draft a news item and simultaneously disseminate it across all social platforms where Hromadske TV had a presence, all with a single click.
+- Title generation for broadcasts that aligned with our brand design, along with a database of individuals who had appeared on our broadcasts.
+- A continuously updating, on-air ticker tape that journalists could edit remotely, leveraging WebSockets for real-time updates.
+- A social media news publisher. This feature allowed journalists to create a news item and distribute it across all social platforms where Hromadske TV had a presence, all with a single click.
 
-The server side of our application was developed using NodeJS, harnessing the Sails.js framework, while the front-end was crafted using AngularJS.
+The server-side of our application was built using NodeJS and the Sails.js framework, while AngularJS was employed for the front-end development.
 
-Subsequently, I developed a distinct standalone application on Electron - Streamer. This application served to generate television broadcasts and was split into two windows. The first window was a calendar facilitating easy addition of videos, live broadcasts, advertisements, and provided visibility into what was currently playing on-air. The second window served as a broadcast playback window, which was captured by the computer and subsequently broadcasted on-air.
+Later, I developed a standalone application on Electron, named Streamer. This application, intended to generate television broadcasts, was split into two windows. The first window functioned as a calendar, allowing easy scheduling of videos, live broadcasts, and advertisements while showing what was currently playing on-air. The second window served as a broadcast playback window, which was then captured by the computer and broadcasted on-air.
 
-To further cut costs, I fabricated some of our own devices. For instance, I created a device to illuminate the active camera. When the on-air director engages a camera for broadcast, a red LED light above it is activated, informing the journalists where they should direct their attention. Comparable devices in the market range from $200-$300. Our custom-built solution cost merely $10.
+In a bid to further economize, I created custom devices. For example, I designed a device to illuminate the active camera. When a camera is selected for broadcasting, a red LED light above it is activated, guiding journalists where to focus. Comparable devices in the market usually cost between $200-$300, while our custom-built solution cost only $10.
 
-**Results:** A fully functional TV studio was assembled from scratch, significantly under budget. I managed the setup of the studio and established the processes and procedures for the technical team. Furthermore, a TV website and a live broadcast management system were successfully implemented.
+**Results:** A fully functional TV studio was built from scratch at a fraction of the usual cost. I was responsible for setting up the studio and defining the processes and procedures for the technical team. Moreover, a TV website and a live broadcast management system were successfully launched.
 
 {{< gallery >}}
   {{< gallery_item src="assets/image-5cf7.png" caption="image.png" >}}
   {{< gallery_item src="assets/img-4336-15f4.jpg" caption="IMG_4336.jpeg" >}}
+  {{< gallery_item src="assets/hromadske-app-000-7a66.png" caption="hromadske-app-000.png" >}}
+  {{< gallery_item src="assets/hromadske-app-001-5eba.png" caption="hromadske-app-001.png" >}}
+  {{< gallery_item src="assets/hromadske-app-002-2554.png" caption="hromadske-app-002.png" >}}
 {{< /gallery >}}
 
 ### 🇺🇦 Visnyk Kremenchuka - iOS, PHP developer
@@ -215,13 +218,13 @@ To further cut costs, I fabricated some of our own devices. For instance, I crea
 
 **Country:** Ukraine
 
-The Visnyk Kremenchuka is a media outlet based in the city of Kremenchuk. At the inception of our collaboration, they were publishing a weekly paper newspaper and maintaining a website. However, as the influence of the internet grew, they found their paper edition sales declining while their website readership expanded. Consequently, they decided to prioritize their online presence.
+Visnyk Kremenchuk is a media outlet based in Kremenchuk city. At the start of our collaboration, they were focused on publishing a weekly paper newspaper, while also maintaining a website. However, as the internet's influence intensified, they experienced a decline in their paper edition sales, contrasted with an increase in their website readership. This led to a strategic decision to prioritize their online presence.
 
-Initially, I transitioned the site to WordPress from an outdated CMS that hadn't been updated in a while. Switching to WordPress facilitated more attractive content creation, simplified news editing, enhanced content management, and enabled analytics. For load balancing, Apache and Nginx were used, and we introduced the capability to cache pages into static files.
+Initially, I migrated their website to WordPress from an outdated CMS, which hadn't seen any updates for a significant period. Transitioning to WordPress offered a more visually appealing platform for content creation, simplified the news editing process, enhanced content management, and provided access to detailed analytics. Apache and Nginx were utilized for load balancing, and we introduced the functionality to cache pages into static files for improved performance.
 
-Subsequently, the editorial team decided to develop an iOS application. Its core functions included news reading, the ability to leave comments, viewing photos and videos, and saving favorite content. To accomplish this, I developed the application in Objective-C and integrated it with the existing site using the WordPress API and my custom plugins.
+Following this, the editorial team made the decision to expand their digital footprint with an iOS application. The core functionalities of this application included news reading, commenting capability, photo and video viewing, and saving of favorite content. To meet these requirements, I developed the application in Objective-C and seamlessly integrated it with the existing website through the WordPress API and custom plugins I developed.
 
-**Results:** the website loading speed increased four times. The app was published in the App Store and had about a thousand users.
+**Results:** The website's loading speed saw a fourfold increase, dramatically enhancing user experience. Additionally, the app was successfully published on the App Store and has attracted approximately a thousand users.
 
 {{< gallery >}}
   {{< gallery_item src="assets/img-0334-a090.jpg" caption="IMG_0334.jpeg" >}}
@@ -249,11 +252,11 @@ Subsequently, the editorial team decided to develop an iOS application. Its core
 
 **Country:** Ukraine
 
-RiverSoft is a company specializing in the development of automated parking systems. My initial task was to augment an existing parking management system, which was written in Delphi.
+RiverSoft is a company that specializes in the development of automated parking systems. Initially, my responsibility was to enhance an existing parking management system that was constructed using Delphi.
 
-After some time, we were tasked with creating an interface for parking machines, which customers would use to pay for parking and top up their cards. It was at this juncture that we decided to transition to Microsoft technologies, specifically C#, the .NET framework, and SQL Server. We developed the interface for the parking meters using WPF. This proved to be the correct decision, as the Microsoft stack facilitated quick system deployment. Thanks to WPF and XAML, we could adjust the interface's appearance with considerable flexibility.
+As time progressed, we were given the task of developing an interface for parking machines, a tool that customers would utilize for paying their parking fees and replenishing their cards. It was during this period that we chose to transition to Microsoft technologies, specifically utilizing C#, the .NET framework, and SQL Server. The interface for the parking meters was developed with WPF. This decision turned out to be prudent as the Microsoft stack enabled us to deploy the system rapidly. With the use of WPF and XAML, we were able to modify the interface's appearance with considerable flexibility.
 
-**Results:** after replacing people with an automated system, cash theft by employees was eliminated and the client's profits doubled.
+**Results:** following the transition to an automated system, cash theft by employees was completely eliminated. This significant change directly led to a doubling of the client's profits.
 
 ## Open source
 
