@@ -34,7 +34,7 @@ params:
     enabled: true
     homeInfoParams:
     title: "Hello!"
-    subtitle: "My name is Jaroslav, and I have over 14 years of experience as a programmer. I love to code for both work and leisure. On this site, you'll find more information about me and the projects."
+    subtitle: "My name is Jaroslav, and I have over 14 years of experience as a programmer. I love to code for both work and leisure. Here you'll find more information about me and my projects."
     imageUrl: "avatar-003.jpg"
     buttons:
       - name: "GitHub"
