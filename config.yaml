@@ -34,7 +34,7 @@ params:
     enabled: true
     homeInfoParams:
     title: "Hello!"
-    subtitle: "My name is Jaroslav. I am a programmer. I love programming, traveling and sports."
+    subtitle: "My name is Jaroslav, and I have over 14 years of experience as a programmer. I love to code for both work and leisure. On this site, you'll find more information about me and the projects."
     imageUrl: "avatar-003.jpg"
     buttons:
       - name: "GitHub"
@@ -79,7 +79,7 @@ languages:
         enabled: true
         homeInfoParams:
         title: "Привіт!"
-        subtitle: "Мене звати Ярослав. Я програміст. Люблю програмування, подорожі і спорт."
+        subtitle: "Мене звуть Ярослав, і я маю понад 14 років досвіду роботи програмістом. Я люблю писати код як для роботи, так і для відпочинку. На цьому сайті ви знайдете інформацію про мене та мої проекти."
         imageUrl: "avatar-003.jpg"
         buttons:
           - name: "GitHub"
