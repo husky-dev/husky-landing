@@ -7,28 +7,69 @@ draft: false
 
 ## Про мене
 
-Я досвідчений програміст із пристрастю до створення продуктів. Займаюсь програмуванням з 14 років, починаючи з C++, а пізніше писав прошивки для мікроконтролерів на асемблері. Потім я перейшов до написання драйверів за допомогою Delphi і врешті-решт отримав свою першу роботу як розробник C#. Я також маю досвід iOS-розробника, а зараз працюю як full stack розробник.
+Мене звати Ярослав, і я займаюся програмуванням із 14 років.
 
-## Освіта
+Починав із написання прошивок для мікроконтролерів, використовуючи асемблер і C++. Потім я перейшов до написання драйверів за допомогою Delphi, а трохи пізніше отримав свою першу роботу як розробник C#. Після цього декілька років створював iOS-додатки, використовуючи Objective-C і Swift.
 
-### Кременчуцький національний університет імені Михайла Остроградського
-
-Магістр, системна інженерія
-
-**Період:** 2011 - 2015
-
-**Країна:** Україна
-
-### Коледж Кременчуцького національного університету
-
-Молодший спеціаліст, комп'ютерні науки
-
-**Період:** 2007 - 2011
-
-**Країна:** Україна
+Наразі я займаюся Full Stack розробкою, адже люблю створювати додатки, починаючи з back-end частини і завершуючи інтерфейсом кінцевого користувача.
 
 ## Досвід
 
+### 🇪🇺 Maquettica Interactive - Full Stack developer
+
+**Період:** Жовтень 2023 - Березень 2024 (6 місяців)
+
+**Технології:** React, React Native, NodeJS, TypeScript, C++, ESP32, PlatformIO, MongoDB Docker
+
+**Посилання:** [App Store](https://apps.apple.com/ua/app/maquettica-interactive/id6477194066), [Google Play](https://play.google.com/store/apps/details?id=eu.maquettica.interactive), [Website](https://www.maquettica.eu/).
+
+Maquettica - це додаток, розроблений для керування та анімування фізичних архітектурних моделей, створених [«Maquettica Architectural Models»](https://www.maquettica.eu/). Він дозволяє користувачам керувати освітленням, рухом та іншими функціями зі своїх мобільних пристроїв, що робить його ідеальним для дизайнерських презентацій, музеїв, архітекторів та девелоперів нерухомості.
+
+Ця платформа складається з трьох частин:
+
+- Пристрій, який керує обладнанням, базується на ESP32. Після ввімкнення він ініціює мережу WiFi з SSID та паролем, визначеними в адмін-панелі. Потім користувачі можуть підключатися до пристрою за допомогою мобільного додатку.
+- Мобільний додаток підключається до пристрою через WiFi і дозволяє користувачам керувати ним. Кожен проект має свій власний стиль і брендинг, залежно від вимог клієнта.
+- Адмін-панель дозволяє керувати проектами. Вона дозволяє редагувати стилі проекту, керувати конфігураціями виводу плати та завантажувати необхідну прошивку для плати.
+
+Панель адміністратора була реалізована з використанням React, TypeScript, NodeJS, MongoDB та Docker. Мобільний додаток був розроблений з використанням React Native для підтримки платформ iOS та Android. Прошивка для контролеру була розроблена з використанням C++ та фреймворку PlatformIO.
+
+{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mp4" poster="assets/maquettica-esp32-000-a139-8f5d.jpg" >}}
+
+{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mp4" poster="assets/maquettica-esp32-001-06bc-7c8c.jpg" >}}
+
+{{< gallery >}}
+ {{< gallery_item src="assets/maquettica-ios-mobile-000-24f1.png" caption="maquettica-ios-mobile-000.png" >}}
+ {{< gallery_item src="assets/maquettica-ios-mobile-001-dafa.png" caption="maquettica-ios-mobile-001.png" >}}
+ {{< gallery_item src="assets/maquettica-ios-mobile-002-cd7f.png" caption="maquettica-ios-mobile-002.png" >}}
+ {{< gallery_item src="assets/maquettica-web-000-46e9.png" caption="maquettica-web-000.png" >}}
+{{< /gallery >}}
+
+### 🇺🇸 Singing Bowl - Full Stack developer
+
+**Період:** October 2023 - March 2024 (6 місяців)
+
+**Технології:** React Native, NodeJS, TypeScript, C++, Raspberry Pi, ESP32
+
+**Країна:** США
+
+Singing Bowl (співоча чаша) - це річ яку звичай можна побачити в буддійських храмах. Пристрій складається з плати Raspberry Pi, реле та соленоїда. Реле з'єднується з соленоїдом, який вдаряє по співочій чаші в запланований час, змушуючи її дзвеніти.
+
+Моїм завданням було:
+
+- Розробити пристрій за допомогою плати Raspberry Pi, включаючи необхідну схему.
+- Розробити прошивку для пристрою з використанням TypeScript та NodeJS.
+- Розробити мобільний додаток для платформ iOS та Android з використанням React Native.
+
+В результаті було створено прототип пристрою та розроблено два додатки. Для зв'язку між додатком та пристроєм було обрано Bluetooth Low Energy, оскільки він швидкий та ідеально підходить для цього завдання.
+
+Для подальшого розвитку було створено пристрій на базі плати ESP32, щоб зменшити енергоспоживання і дозволити йому працювати від акумуляторів.
+
+{{< video mov="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mov" mp4="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mp4" poster="assets/singing-bowl-rpi-001-1b47-f607.jpg" >}}
+
+{{< gallery >}}
+ {{< gallery_item src="assets/singing-bowl-ios-001-e58f.png" caption="singing-bowl-ios-001.png" >}}
+ {{< gallery_item src="assets/singing-bowl-rpi-000-small-8969.jpg" caption="singing-bowl-rpi-000-small.jpeg" >}}
+{{< /gallery >}}
 ### 🇺🇸 CircleOf - Full Stack developer
 
 **Період:** липень 2017 - зараз (6 років, 2 місяці)
@@ -48,17 +89,17 @@ CircleOf - додаток для організації допомоги люд�
 **Результати:** додатки в [App Store](https://apps.apple.com/ua/app/family-caregiving-circleof/id1298712207), [Google Play](https://play.google.com/store/apps/details?id=com.mywaysmobile) і [вебсайт](https://circleof.com/).
 
 {{< gallery >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-000-4bea.png" caption="circleof-ios-5.5-000.png" >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-001-744b.png" caption="circleof-ios-5.5-001.png" >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-002-593d.png" caption="circleof-ios-5.5-002.png" >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-003-c847.png" caption="circleof-ios-5.5-003.png" >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-004-c170.png" caption="circleof-ios-5.5-004.png" >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-005-aa09.png" caption="circleof-ios-5.5-005.png" >}}
-  {{< gallery_item src="assets/circleof-ios-5-5-006-bb98.png" caption="circleof-ios-5.5-006.png" >}}
-  {{< gallery_item src="assets/circleof-web-000-8ab3.png" caption="circleof-web-000.png" >}}
-  {{< gallery_item src="assets/circleof-web-001-7a73.png" caption="circleof-web-001.png" >}}
-  {{< gallery_item src="assets/circleof-web-002-3e0d.png" caption="circleof-web-002.png" >}}
-  {{< gallery_item src="assets/circleof-web-003-4416.png" caption="circleof-web-003.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-000-b135.png" caption="circleof-ios-5.5-000.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-001-36a8.png" caption="circleof-ios-5.5-001.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-002-ff47.png" caption="circleof-ios-5.5-002.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-003-0a9f.png" caption="circleof-ios-5.5-003.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-004-9c56.png" caption="circleof-ios-5.5-004.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-005-431a.png" caption="circleof-ios-5.5-005.png" >}}
+ {{< gallery_item src="assets/circleof-ios-5-5-006-8bc2.png" caption="circleof-ios-5.5-006.png" >}}
+ {{< gallery_item src="assets/circleof-web-000-d20d.png" caption="circleof-web-000.png" >}}
+ {{< gallery_item src="assets/circleof-web-001-8f56.png" caption="circleof-web-001.png" >}}
+ {{< gallery_item src="assets/circleof-web-002-f5e5.png" caption="circleof-web-002.png" >}}
+ {{< gallery_item src="assets/circleof-web-003-5e04.png" caption="circleof-web-003.png" >}}
 {{< /gallery >}}
 
 ### 🇺🇸 Watery - Full Stack developer
@@ -78,9 +119,9 @@ Front-end розроблений на React. Back-end - NodeJS. Для отри�
 **Результати:** додаток запущений в продакшен і виконує свої функції.
 
 {{< gallery >}}
-  {{< gallery_item src="assets/watery-web-000-d1f7.png" caption="watery-web-000.png" >}}
-  {{< gallery_item src="assets/watery-web-001-625a.png" caption="watery-web-001.png" >}}
-  {{< gallery_item src="assets/watery-web-002-52aa.png" caption="watery-web-002.png" >}}
+ {{< gallery_item src="assets/watery-web-000-936c.png" caption="watery-web-000.png" >}}
+ {{< gallery_item src="assets/watery-web-001-f620.png" caption="watery-web-001.png" >}}
+ {{< gallery_item src="assets/watery-web-002-5b54.png" caption="watery-web-002.png" >}}
 {{< /gallery >}}
 
 ### 🇺🇸 BrandedAF - Full Stack developer
@@ -109,16 +150,16 @@ BrandedAF - студія розробки програмного забезпе�
 - 🇺🇸 Iris - система організації великих онлайн заходів.
 
 {{< gallery >}}
-  {{< gallery_item src="assets/ios-5-5-000-496a.png" caption="ios-5.5-000.png" >}}
-  {{< gallery_item src="assets/ios-5-5-001-317e.png" caption="ios-5.5-001.png" >}}
-  {{< gallery_item src="assets/ios-5-5-002-22bb.png" caption="ios-5.5-002.png" >}}
-  {{< gallery_item src="assets/ios-5-5-003-9079.png" caption="ios-5.5-003.png" >}}
-  {{< gallery_item src="assets/ios-5-5-004-8cb1.png" caption="ios-5.5-004.png" >}}
-  {{< gallery_item src="assets/ios-5-5-005-f578.png" caption="ios-5.5-005.png" >}}
-  {{< gallery_item src="assets/ios-5-5-006-3f67.png" caption="ios-5.5-006.png" >}}
-  {{< gallery_item src="assets/ios-6-5-000-e6d3.png" caption="ios-6.5-000.png" >}}
-  {{< gallery_item src="assets/ios-6-5-001-2a9e.png" caption="ios-6.5-001.png" >}}
-  {{< gallery_item src="assets/ios-6-5-002-109a.png" caption="ios-6.5-002.png" >}}
+ {{< gallery_item src="assets/ios-5-5-000-8d73.png" caption="ios-5.5-000.png" >}}
+ {{< gallery_item src="assets/ios-5-5-001-77cf.png" caption="ios-5.5-001.png" >}}
+ {{< gallery_item src="assets/ios-5-5-002-8f42.png" caption="ios-5.5-002.png" >}}
+ {{< gallery_item src="assets/ios-5-5-003-f5c4.png" caption="ios-5.5-003.png" >}}
+ {{< gallery_item src="assets/ios-5-5-004-3709.png" caption="ios-5.5-004.png" >}}
+ {{< gallery_item src="assets/ios-5-5-005-1538.png" caption="ios-5.5-005.png" >}}
+ {{< gallery_item src="assets/ios-5-5-006-cd16.png" caption="ios-5.5-006.png" >}}
+ {{< gallery_item src="assets/ios-6-5-000-d72b.png" caption="ios-6.5-000.png" >}}
+ {{< gallery_item src="assets/ios-6-5-001-b5c3.png" caption="ios-6.5-001.png" >}}
+ {{< gallery_item src="assets/ios-6-5-002-84c9.png" caption="ios-6.5-002.png" >}}
 {{< /gallery >}}
 
 ### 🇺🇸 Nevados - Frontend developer
@@ -140,11 +181,11 @@ Nevados - система для створення і керування сон�
 **Результати:** система запущена в експлуатацію, мобільний додаток опублікований в Google Play.
 
 {{< gallery >}}
-  {{< gallery_item src="assets/image-20190902-153755-104c.png" caption="image-20190902-153755.png" >}}
-  {{< gallery_item src="assets/image-20191002-134045-dd3b.png" caption="image-20191002-134045.png" >}}
-  {{< gallery_item src="assets/000-07ad.jpg" caption="000.jpeg" >}}
-  {{< gallery_item src="assets/001-f2c2.jpg" caption="001.jpeg" >}}
-  {{< gallery_item src="assets/002-e574.jpg" caption="002.jpeg" >}}
+ {{< gallery_item src="assets/image-20190902-153755-a71c.png" caption="image-20190902-153755.png" >}}
+ {{< gallery_item src="assets/image-20191002-134045-b5a9.png" caption="image-20191002-134045.png" >}}
+ {{< gallery_item src="assets/000-9c8f.jpg" caption="000.jpeg" >}}
+ {{< gallery_item src="assets/001-54ee.jpg" caption="001.jpeg" >}}
+ {{< gallery_item src="assets/002-1cb7.jpg" caption="002.jpeg" >}}
 {{< /gallery >}}
 
 ### 🇺🇸 Pando - Software engineer
@@ -166,12 +207,12 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 **Результати:** проект було доведено до готового продукту і успішно запущено.
 
 {{< gallery >}}
-  {{< gallery_item src="assets/000-f292.png" caption="000.png" >}}
-  {{< gallery_item src="assets/001-b073.jpg" caption="001.jpeg" >}}
-  {{< gallery_item src="assets/002-acad.png" caption="002.png" >}}
-  {{< gallery_item src="assets/004-3437.jpg" caption="004.jpeg" >}}
-  {{< gallery_item src="assets/005-a13b.png" caption="005.png" >}}
-  {{< gallery_item src="assets/006-f71d.png" caption="006.png" >}}
+ {{< gallery_item src="assets/000-6297.png" caption="000.png" >}}
+ {{< gallery_item src="assets/001-6527.jpg" caption="001.jpeg" >}}
+ {{< gallery_item src="assets/002-21c0.png" caption="002.png" >}}
+ {{< gallery_item src="assets/004-c90e.jpg" caption="004.jpeg" >}}
+ {{< gallery_item src="assets/005-bd5f.png" caption="005.png" >}}
+ {{< gallery_item src="assets/006-1fe7.png" caption="006.png" >}}
 {{< /gallery >}}
 
 ### 🇺🇦 Hromadske.Kremenchuk - CTO
@@ -201,11 +242,11 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 **Результати:** була створена телестудія з нуля за значно менший кошт. Мною була зібрана студія і налаштовані процеси та процедури роботи технічної команди. Був створений сайт телебачення та система менеджменту прямого ефіру.
 
 {{< gallery >}}
-  {{< gallery_item src="assets/image-5cf7.png" caption="image.png" >}}
-  {{< gallery_item src="assets/img-4336-15f4.jpg" caption="IMG_4336.jpeg" >}}
-  {{< gallery_item src="assets/hromadske-app-000-7a66.png" caption="hromadske-app-000.png" >}}
-  {{< gallery_item src="assets/hromadske-app-001-5eba.png" caption="hromadske-app-001.png" >}}
-  {{< gallery_item src="assets/hromadske-app-002-2554.png" caption="hromadske-app-002.png" >}}
+ {{< gallery_item src="assets/image-dee7.png" caption="image.png" >}}
+ {{< gallery_item src="assets/img-4336-c0cc.jpg" caption="IMG_4336.jpeg" >}}
+ {{< gallery_item src="assets/hromadske-app-000-1d05.png" caption="hromadske-app-000.png" >}}
+ {{< gallery_item src="assets/hromadske-app-001-040c.png" caption="hromadske-app-001.png" >}}
+ {{< gallery_item src="assets/hromadske-app-002-d004.png" caption="hromadske-app-002.png" >}}
 {{< /gallery >}}
 
 ### 🇺🇦 Visnyk Kremenchuka - iOS, PHP developer
@@ -225,21 +266,21 @@ Pando - пристрій, побудований на Raspberry Pi, котрий
 **Результати:** швидкість завантаження сайту зросло в 4 рази. Додаток був опублікований в App Store та мав близько тисячі користувачів.
 
 {{< gallery >}}
-  {{< gallery_item src="assets/img-0334-a090.jpg" caption="IMG_0334.jpeg" >}}
-  {{< gallery_item src="assets/img-0332-9322.jpg" caption="IMG_0332.jpeg" >}}
-  {{< gallery_item src="assets/img-0283-7168.jpg" caption="IMG_0283.jpeg" >}}
-  {{< gallery_item src="assets/img-0286-d330.jpg" caption="IMG_0286.jpeg" >}}
-  {{< gallery_item src="assets/img-0287-0921.jpg" caption="IMG_0287.jpeg" >}}
-  {{< gallery_item src="assets/img-0284-2159.jpg" caption="IMG_0284.jpeg" >}}
-  {{< gallery_item src="assets/img-0318-17cd.jpg" caption="IMG_0318.jpeg" >}}
-  {{< gallery_item src="assets/img-0330-83e6.jpg" caption="IMG_0330.jpeg" >}}
-  {{< gallery_item src="assets/img-0338-c8cb.jpg" caption="IMG_0338.jpeg" >}}
-  {{< gallery_item src="assets/img-0339-a0da.jpg" caption="IMG_0339.jpeg" >}}
-  {{< gallery_item src="assets/img-0288-34af.jpg" caption="IMG_0288.jpeg" >}}
-  {{< gallery_item src="assets/img-0340-1162.jpg" caption="IMG_0340.jpeg" >}}
-  {{< gallery_item src="assets/img-0341-996c.jpg" caption="IMG_0341.jpeg" >}}
-  {{< gallery_item src="assets/img-0342-d179.jpg" caption="IMG_0342.jpeg" >}}
-  {{< gallery_item src="assets/img-0343-f407.jpg" caption="IMG_0343.jpeg" >}}
+ {{< gallery_item src="assets/img-0334-926a.jpg" caption="IMG_0334.jpeg" >}}
+ {{< gallery_item src="assets/img-0332-bad8.jpg" caption="IMG_0332.jpeg" >}}
+ {{< gallery_item src="assets/img-0283-1129.jpg" caption="IMG_0283.jpeg" >}}
+ {{< gallery_item src="assets/img-0286-e22a.jpg" caption="IMG_0286.jpeg" >}}
+ {{< gallery_item src="assets/img-0287-9f14.jpg" caption="IMG_0287.jpeg" >}}
+ {{< gallery_item src="assets/img-0284-4307.jpg" caption="IMG_0284.jpeg" >}}
+ {{< gallery_item src="assets/img-0318-dd75.jpg" caption="IMG_0318.jpeg" >}}
+ {{< gallery_item src="assets/img-0330-7df0.jpg" caption="IMG_0330.jpeg" >}}
+ {{< gallery_item src="assets/img-0338-c49a.jpg" caption="IMG_0338.jpeg" >}}
+ {{< gallery_item src="assets/img-0339-6840.jpg" caption="IMG_0339.jpeg" >}}
+ {{< gallery_item src="assets/img-0288-98d8.jpg" caption="IMG_0288.jpeg" >}}
+ {{< gallery_item src="assets/img-0340-f23a.jpg" caption="IMG_0340.jpeg" >}}
+ {{< gallery_item src="assets/img-0341-d51b.jpg" caption="IMG_0341.jpeg" >}}
+ {{< gallery_item src="assets/img-0342-ae71.jpg" caption="IMG_0342.jpeg" >}}
+ {{< gallery_item src="assets/img-0343-3470.jpg" caption="IMG_0343.jpeg" >}}
 {{< /gallery >}}
 
 ### 🇺🇦 RiverSoft - Delphi, C# developer
@@ -256,6 +297,23 @@ RiverSoft - компанія, котра займається створення
 
 **Результати:** після заміни людей на автоматизовану систему вдалось усунути крадіжки готівки працівниками і прибутки клієнта виросли в двічі.
 
+## Освіта
+
+### Кременчуцький національний університет імені Михайла Остроградського
+
+Магістр, системна інженерія
+
+**Період:** 2011 - 2015
+
+**Країна:** Україна
+
+### Коледж Кременчуцького національного університету
+
+Молодший спеціаліст, комп'ютерні науки
+
+**Період:** 2007 - 2011
+
+**Країна:** Україна
 ## Open source
 
 У мене є [окрема сторінка](/uk/projects) зі списком моїх проектів. Будь-ласка відвідайте її для більш детальної інформації.
@@ -292,4 +350,4 @@ CLI-утиліта для керування файлом `CHANGELOG.md` на о
 
 DEV Challenge - найбільший чемпіонат для ІТ-спеціалістів у Європі. За 18 сезонів у ньому взяли участь понад 22 000 фахівців.
 
-![19554728_1066529833449141_8640329180892155906_n.jpeg](assets/19554728-1066529833449141-8640329180892155906-n-d647.jpg)
+![19554728_1066529833449141_8640329180892155906_n.jpeg](assets/19554728-1066529833449141-8640329180892155906-n-0806.jpg)
