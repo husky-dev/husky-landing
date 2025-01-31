@@ -33,16 +33,16 @@ Maquettica - це додаток, розроблений для керуванн
 
 Панель адміністратора була реалізована з використанням React, TypeScript, NodeJS, MongoDB та Docker. Мобільний додаток був розроблений з використанням React Native для підтримки платформ iOS та Android. Прошивка для контролеру була розроблена з використанням C++ та фреймворку PlatformIO.
 
-{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mp4" poster="assets/maquettica-esp32-000-a139-8f5d.jpg" >}}
-
-{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mp4" poster="assets/maquettica-esp32-001-06bc-7c8c.jpg" >}}
-
 {{< gallery >}}
  {{< gallery_item src="assets/maquettica-ios-mobile-000-24f1.png" caption="maquettica-ios-mobile-000.png" >}}
  {{< gallery_item src="assets/maquettica-ios-mobile-001-dafa.png" caption="maquettica-ios-mobile-001.png" >}}
  {{< gallery_item src="assets/maquettica-ios-mobile-002-cd7f.png" caption="maquettica-ios-mobile-002.png" >}}
  {{< gallery_item src="assets/maquettica-web-000-46e9.png" caption="maquettica-web-000.png" >}}
 {{< /gallery >}}
+
+{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mp4" poster="assets/maquettica-esp32-000-a139-8f5d.jpg" >}}
+
+{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mp4" poster="assets/maquettica-esp32-001-06bc-7c8c.jpg" >}}
 
 ### 🇺🇸 Singing Bowl - Full Stack developer
 
@@ -64,12 +64,13 @@ Singing Bowl (співоча чаша) - це річ яку звичай мож�
 
 Для подальшого розвитку було створено пристрій на базі плати ESP32, щоб зменшити енергоспоживання і дозволити йому працювати від акумуляторів.
 
-{{< video mov="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mov" mp4="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mp4" poster="assets/singing-bowl-rpi-001-1b47-f607.jpg" >}}
-
 {{< gallery >}}
  {{< gallery_item src="assets/singing-bowl-ios-001-e58f.png" caption="singing-bowl-ios-001.png" >}}
  {{< gallery_item src="assets/singing-bowl-rpi-000-small-8969.jpg" caption="singing-bowl-rpi-000-small.jpeg" >}}
 {{< /gallery >}}
+
+{{< video mov="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mov" mp4="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mp4" poster="assets/singing-bowl-rpi-001-1b47-f607.jpg" >}}
+
 ### 🇺🇸 CircleOf - Full Stack developer
 
 **Період:** липень 2017 - зараз (6 років, 2 місяці)

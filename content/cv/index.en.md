@@ -29,15 +29,16 @@ The admin panel was implemented using React, TypeScript, NodeJS, MongoDB, and Do
 
 **Links:** [App Store](https://apps.apple.com/ua/app/maquettica-interactive/id6477194066), [Google Play](https://play.google.com/store/apps/details?id=eu.maquettica.interactive), [Website](https://www.maquettica.eu/).
 
-{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mp4" poster="assets/maquettica-esp32-000-a139-8f5d.jpg" >}}
-{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mp4" poster="assets/maquettica-esp32-001-06bc-7c8c.jpg" >}}
-
 {{< gallery >}}
  {{< gallery_item src="assets/maquettica-ios-mobile-000-24f1.png" caption="maquettica-ios-mobile-000.png" >}}
  {{< gallery_item src="assets/maquettica-ios-mobile-001-dafa.png" caption="maquettica-ios-mobile-001.png" >}}
  {{< gallery_item src="assets/maquettica-ios-mobile-002-cd7f.png" caption="maquettica-ios-mobile-002.png" >}}
  {{< gallery_item src="assets/maquettica-web-000-46e9.png" caption="maquettica-web-000.png" >}}
 {{< /gallery >}}
+
+{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-000-a139-8f5d.mp4" poster="assets/maquettica-esp32-000-a139-8f5d.jpg" >}}
+{{< video mov="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mov" mp4="https://static.husky-dev.me/blog/maquettica-esp32-001-06bc-7c8c.mp4" poster="assets/maquettica-esp32-001-06bc-7c8c.jpg" >}}
+
 ### 🇺🇸 Singing Bowl - Full Stack developer
 
 **Period:** October 2023 - March 2024 (6 month)
@@ -58,12 +59,13 @@ As a result, a prototype of the device was built, and two apps were developed. B
 
 For future development, a device based on the ESP32 board was created to reduce energy consumption and allow it to operate using accumulators.
 
-{{< video mov="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mov" mp4="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mp4" poster="assets/singing-bowl-rpi-001-1b47-f607.jpg" >}}
-
 {{< gallery >}}
  {{< gallery_item src="assets/singing-bowl-ios-001-e58f.png" caption="singing-bowl-ios-001.png" >}}
  {{< gallery_item src="assets/singing-bowl-rpi-000-small-8969.jpg" caption="singing-bowl-rpi-000-small.jpeg" >}}
 {{< /gallery >}}
+
+{{< video mov="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mov" mp4="https://static.husky-dev.me/blog/singing-bowl-rpi-001-1b47-f607.mp4" poster="assets/singing-bowl-rpi-001-1b47-f607.jpg" >}}
+
 ### 🇺🇸 CircleOf - Full Stack developer
 
 **Period:** July 2017 - Jul 2023 (6 years)
